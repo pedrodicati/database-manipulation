@@ -1,514 +1,514 @@
-,uri,nome,siglaPartido,uriPartido,siglaUf,idLegislatura,urlFoto,email
-0,https://dadosabertos.camara.leg.br/api/v2/deputados/204521,Abou Anni,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204521.jpg,
-1,https://dadosabertos.camara.leg.br/api/v2/deputados/204379,Acácio Favacho,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,AP,56,https://www.camara.leg.br/internet/deputado/bandep/204379.jpg,
-2,https://dadosabertos.camara.leg.br/api/v2/deputados/204560,Adolfo Viana,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,BA,56,https://www.camara.leg.br/internet/deputado/bandep/204560.jpg,
-3,https://dadosabertos.camara.leg.br/api/v2/deputados/204528,Adriana Ventura,3,https://dadosabertos.camara.leg.br/api/v2/partidos/37901,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204528.jpg,
-4,https://dadosabertos.camara.leg.br/api/v2/deputados/121948,Adriano do Baldy,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,GO,56,https://www.camara.leg.br/internet/deputado/bandep/121948.jpg,
-5,https://dadosabertos.camara.leg.br/api/v2/deputados/74646,Aécio Neves,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,MG,56,https://www.camara.leg.br/internet/deputado/bandep/74646.jpg,
-6,https://dadosabertos.camara.leg.br/api/v2/deputados/141372,Aelton Freitas,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,MG,56,https://www.camara.leg.br/internet/deputado/bandep/141372.jpg,
-7,https://dadosabertos.camara.leg.br/api/v2/deputados/160508,Afonso Florence,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,BA,56,https://www.camara.leg.br/internet/deputado/bandep/160508.jpg,
-8,https://dadosabertos.camara.leg.br/api/v2/deputados/136811,Afonso Hamm,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,RS,56,https://www.camara.leg.br/internet/deputado/bandep/136811.jpg,
-9,https://dadosabertos.camara.leg.br/api/v2/deputados/178835,Afonso Motta,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,RS,56,https://www.camara.leg.br/internet/deputado/bandep/178835.jpg,
-10,https://dadosabertos.camara.leg.br/api/v2/deputados/204495,Airton Faleiro,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,PA,56,https://www.camara.leg.br/internet/deputado/bandep/204495.jpg,
-11,https://dadosabertos.camara.leg.br/api/v2/deputados/204549,AJ Albuquerque,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,CE,56,https://www.camara.leg.br/internet/deputado/bandep/204549.jpg,
-12,https://dadosabertos.camara.leg.br/api/v2/deputados/160559,Alceu Moreira,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,RS,56,https://www.camara.leg.br/internet/deputado/bandep/160559.jpg,
-13,https://dadosabertos.camara.leg.br/api/v2/deputados/204413,Alcides Rodrigues,4,https://dadosabertos.camara.leg.br/api/v2/partidos/37907,GO,56,https://www.camara.leg.br/internet/deputado/bandep/204413.jpg,
-14,https://dadosabertos.camara.leg.br/api/v2/deputados/204545,Alê Silva,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204545.jpg,
-15,https://dadosabertos.camara.leg.br/api/v2/deputados/204501,Alencar Santana,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204501.jpg,
-16,https://dadosabertos.camara.leg.br/api/v2/deputados/160511,Alessandro Molon,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/160511.jpg,
-17,https://dadosabertos.camara.leg.br/api/v2/deputados/178972,Alex Manente,1,https://dadosabertos.camara.leg.br/api/v2/partidos/37905,SP,56,https://www.camara.leg.br/internet/deputado/bandep/178972.jpg,
-18,https://dadosabertos.camara.leg.br/api/v2/deputados/204571,Alex Santana,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,BA,56,https://www.camara.leg.br/internet/deputado/bandep/204571.jpg,
-19,https://dadosabertos.camara.leg.br/api/v2/deputados/105534,Alexandre Figueiredo,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,SE,56,https://www.camara.leg.br/internet/deputado/bandep/105534.jpg,
-20,https://dadosabertos.camara.leg.br/api/v2/deputados/204544,Alexandre Frota,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204544.jpg,
-21,https://dadosabertos.camara.leg.br/api/v2/deputados/160545,Alexandre Leite,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,SP,56,https://www.camara.leg.br/internet/deputado/bandep/160545.jpg,
-22,https://dadosabertos.camara.leg.br/api/v2/deputados/204503,Alexandre Padilha,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204503.jpg,
-23,https://dadosabertos.camara.leg.br/api/v2/deputados/204516,Alexis Fonteyne,3,https://dadosabertos.camara.leg.br/api/v2/partidos/37901,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204516.jpg,
-24,https://dadosabertos.camara.leg.br/api/v2/deputados/74057,Alice Portugal,5,https://dadosabertos.camara.leg.br/api/v2/partidos/36779,BA,56,https://www.camara.leg.br/internet/deputado/bandep/74057.jpg,
-25,https://dadosabertos.camara.leg.br/api/v2/deputados/178927,Aliel Machado,18,https://dadosabertos.camara.leg.br/api/v2/partidos/36851,PR,56,https://www.camara.leg.br/internet/deputado/bandep/178927.jpg,
-26,https://dadosabertos.camara.leg.br/api/v2/deputados/204353,Aline Gurgel,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,AP,56,https://www.camara.leg.br/internet/deputado/bandep/204353.jpg,
-27,https://dadosabertos.camara.leg.br/api/v2/deputados/204400,Aline Sleutjes,10,https://dadosabertos.camara.leg.br/api/v2/partidos/36763,PR,56,https://www.camara.leg.br/internet/deputado/bandep/204400.jpg,
-28,https://dadosabertos.camara.leg.br/api/v2/deputados/178937,Altineu Côrtes,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/178937.jpg,
-29,https://dadosabertos.camara.leg.br/api/v2/deputados/178881,Aluisio Mendes,12,https://dadosabertos.camara.leg.br/api/v2/partidos/36833,MA,56,https://www.camara.leg.br/internet/deputado/bandep/178881.jpg,
-30,https://dadosabertos.camara.leg.br/api/v2/deputados/204356,Amaro Neto,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,ES,56,https://www.camara.leg.br/internet/deputado/bandep/204356.jpg,
-31,https://dadosabertos.camara.leg.br/api/v2/deputados/178831,André Abdon,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,AP,56,https://www.camara.leg.br/internet/deputado/bandep/178831.jpg,
-32,https://dadosabertos.camara.leg.br/api/v2/deputados/74471,André de Paula,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,PE,56,https://www.camara.leg.br/internet/deputado/bandep/74471.jpg,
-33,https://dadosabertos.camara.leg.br/api/v2/deputados/204423,André Ferreira,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,PE,56,https://www.camara.leg.br/internet/deputado/bandep/204423.jpg,
-34,https://dadosabertos.camara.leg.br/api/v2/deputados/133439,André Figueiredo,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,CE,56,https://www.camara.leg.br/internet/deputado/bandep/133439.jpg,
-35,https://dadosabertos.camara.leg.br/api/v2/deputados/178882,André Fufuca,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,MA,56,https://www.camara.leg.br/internet/deputado/bandep/178882.jpg,
-36,https://dadosabertos.camara.leg.br/api/v2/deputados/204515,André Janones,0,https://dadosabertos.camara.leg.br/api/v2/partidos/36898,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204515.jpg,
-37,https://dadosabertos.camara.leg.br/api/v2/deputados/73696,Angela Amin,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,SC,56,https://www.camara.leg.br/internet/deputado/bandep/73696.jpg,
-38,https://dadosabertos.camara.leg.br/api/v2/deputados/123756,Antônia Lúcia,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,AC,56,https://www.camara.leg.br/internet/deputado/bandep/123756.jpg,
-39,https://dadosabertos.camara.leg.br/api/v2/deputados/160553,Antonio Brito,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,BA,56,https://www.camara.leg.br/internet/deputado/bandep/160553.jpg,
-40,https://dadosabertos.camara.leg.br/api/v2/deputados/73433,Arlindo Chinaglia,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,SP,56,https://www.camara.leg.br/internet/deputado/bandep/73433.jpg,
-41,https://dadosabertos.camara.leg.br/api/v2/deputados/141391,Arnaldo Jardim,1,https://dadosabertos.camara.leg.br/api/v2/partidos/37905,SP,56,https://www.camara.leg.br/internet/deputado/bandep/141391.jpg,
-42,https://dadosabertos.camara.leg.br/api/v2/deputados/204414,Aroldo Martins,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,PR,56,https://www.camara.leg.br/internet/deputado/bandep/204414.jpg,
-43,https://dadosabertos.camara.leg.br/api/v2/deputados/160541,Arthur Lira,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,AL,56,https://www.camara.leg.br/internet/deputado/bandep/160541.jpg,
-44,https://dadosabertos.camara.leg.br/api/v2/deputados/160600,Arthur Oliveira Maia,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,BA,56,https://www.camara.leg.br/internet/deputado/bandep/160600.jpg,
-45,https://dadosabertos.camara.leg.br/api/v2/deputados/74090,Átila Lins,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,AM,56,https://www.camara.leg.br/internet/deputado/bandep/74090.jpg,
-46,https://dadosabertos.camara.leg.br/api/v2/deputados/74459,Átila Lira,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,PI,56,https://www.camara.leg.br/internet/deputado/bandep/74459.jpg,
-47,https://dadosabertos.camara.leg.br/api/v2/deputados/160665,Augusto Coutinho,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,PE,56,https://www.camara.leg.br/internet/deputado/bandep/160665.jpg,
-48,https://dadosabertos.camara.leg.br/api/v2/deputados/204509,Áurea Carolina,15,https://dadosabertos.camara.leg.br/api/v2/partidos/36839,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204509.jpg,
-49,https://dadosabertos.camara.leg.br/api/v2/deputados/160512,Aureo Ribeiro,21,https://dadosabertos.camara.leg.br/api/v2/partidos/37904,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/160512.jpg,
-50,https://dadosabertos.camara.leg.br/api/v2/deputados/69871,Bacelar,18,https://dadosabertos.camara.leg.br/api/v2/partidos/36851,BA,56,https://www.camara.leg.br/internet/deputado/bandep/69871.jpg,
-51,https://dadosabertos.camara.leg.br/api/v2/deputados/178975,Baleia Rossi,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,SP,56,https://www.camara.leg.br/internet/deputado/bandep/178975.jpg,
-52,https://dadosabertos.camara.leg.br/api/v2/deputados/73701,Benedita da Silva,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/73701.jpg,
-53,https://dadosabertos.camara.leg.br/api/v2/deputados/109429,Benes Leocádio,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,RN,56,https://www.camara.leg.br/internet/deputado/bandep/109429.jpg,
-54,https://dadosabertos.camara.leg.br/api/v2/deputados/141335,Beto Faro,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,PA,56,https://www.camara.leg.br/internet/deputado/bandep/141335.jpg,
-55,https://dadosabertos.camara.leg.br/api/v2/deputados/204358,Beto Pereira,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,MS,56,https://www.camara.leg.br/internet/deputado/bandep/204358.jpg,
-56,https://dadosabertos.camara.leg.br/api/v2/deputados/178948,Beto Rosado,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,RN,56,https://www.camara.leg.br/internet/deputado/bandep/178948.jpg,
-57,https://dadosabertos.camara.leg.br/api/v2/deputados/204374,Bia Kicis,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,DF,56,https://www.camara.leg.br/internet/deputado/bandep/204374.jpg,
-58,https://dadosabertos.camara.leg.br/api/v2/deputados/204388,Bibo Nunes,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RS,56,https://www.camara.leg.br/internet/deputado/bandep/204388.jpg,
-59,https://dadosabertos.camara.leg.br/api/v2/deputados/141513,Bilac Pinto,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,MG,56,https://www.camara.leg.br/internet/deputado/bandep/141513.jpg,
-60,https://dadosabertos.camara.leg.br/api/v2/deputados/204561,Bira do Pindaré,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,MA,56,https://www.camara.leg.br/internet/deputado/bandep/204561.jpg,
-61,https://dadosabertos.camara.leg.br/api/v2/deputados/160538,Bohn Gass,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,RS,56,https://www.camara.leg.br/internet/deputado/bandep/160538.jpg,
-62,https://dadosabertos.camara.leg.br/api/v2/deputados/74052,Bosco Costa,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SE,56,https://www.camara.leg.br/internet/deputado/bandep/74052.jpg,
-63,https://dadosabertos.camara.leg.br/api/v2/deputados/204551,Bosco Saraiva,21,https://dadosabertos.camara.leg.br/api/v2/partidos/37904,AM,56,https://www.camara.leg.br/internet/deputado/bandep/204551.jpg,
-64,https://dadosabertos.camara.leg.br/api/v2/deputados/204502,Bozzella,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204502.jpg,
-65,https://dadosabertos.camara.leg.br/api/v2/deputados/160589,Bruna Furlan,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,SP,56,https://www.camara.leg.br/internet/deputado/bandep/160589.jpg,
-66,https://dadosabertos.camara.leg.br/api/v2/deputados/93083,Cacá Leão,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,BA,56,https://www.camara.leg.br/internet/deputado/bandep/93083.jpg,
-67,https://dadosabertos.camara.leg.br/api/v2/deputados/204352,Camilo Capiberibe,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,AP,56,https://www.camara.leg.br/internet/deputado/bandep/204352.jpg,
-68,https://dadosabertos.camara.leg.br/api/v2/deputados/204572,Capitão Alberto Neto,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,AM,56,https://www.camara.leg.br/internet/deputado/bandep/204572.jpg,
-69,https://dadosabertos.camara.leg.br/api/v2/deputados/178829,Capitão Augusto,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SP,56,https://www.camara.leg.br/internet/deputado/bandep/178829.jpg,
-70,https://dadosabertos.camara.leg.br/api/v2/deputados/204531,Capitão Derrite,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204531.jpg,
-71,https://dadosabertos.camara.leg.br/api/v2/deputados/178924,Capitão Fábio Abreu,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,PI,56,https://www.camara.leg.br/internet/deputado/bandep/178924.jpg,
-72,https://dadosabertos.camara.leg.br/api/v2/deputados/204487,Capitão Wagner,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,CE,56,https://www.camara.leg.br/internet/deputado/bandep/204487.jpg,
-73,https://dadosabertos.camara.leg.br/api/v2/deputados/213762,Carla Dickson,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,RN,56,https://www.camara.leg.br/internet/deputado/bandep/213762.jpg,
-74,https://dadosabertos.camara.leg.br/api/v2/deputados/204507,Carla Zambelli,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204507.jpg,
-75,https://dadosabertos.camara.leg.br/api/v2/deputados/141401,Carlos Bezerra,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,MT,56,https://www.camara.leg.br/internet/deputado/bandep/141401.jpg,
-76,https://dadosabertos.camara.leg.br/api/v2/deputados/204361,Carlos Chiodini,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,SC,56,https://www.camara.leg.br/internet/deputado/bandep/204361.jpg,
-77,https://dadosabertos.camara.leg.br/api/v2/deputados/178962,Carlos Gomes,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,RS,56,https://www.camara.leg.br/internet/deputado/bandep/178962.jpg,
-78,https://dadosabertos.camara.leg.br/api/v2/deputados/178993,Carlos Henrique Gaguim,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,TO,56,https://www.camara.leg.br/internet/deputado/bandep/178993.jpg,
-79,https://dadosabertos.camara.leg.br/api/v2/deputados/204460,Carlos Jordy,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204460.jpg,
-80,https://dadosabertos.camara.leg.br/api/v2/deputados/74262,Carlos Sampaio,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,SP,56,https://www.camara.leg.br/internet/deputado/bandep/74262.jpg,
-81,https://dadosabertos.camara.leg.br/api/v2/deputados/204426,Carlos Veras,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,PE,56,https://www.camara.leg.br/internet/deputado/bandep/204426.jpg,
-82,https://dadosabertos.camara.leg.br/api/v2/deputados/141398,Carlos Zarattini,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,SP,56,https://www.camara.leg.br/internet/deputado/bandep/141398.jpg,
-83,https://dadosabertos.camara.leg.br/api/v2/deputados/164360,Carmen Zanotto,1,https://dadosabertos.camara.leg.br/api/v2/partidos/37905,SC,56,https://www.camara.leg.br/internet/deputado/bandep/164360.jpg,
-84,https://dadosabertos.camara.leg.br/api/v2/deputados/204369,Caroline de Toni,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SC,56,https://www.camara.leg.br/internet/deputado/bandep/204369.jpg,
-85,https://dadosabertos.camara.leg.br/api/v2/deputados/204499,Cássio Andrade,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,PA,56,https://www.camara.leg.br/internet/deputado/bandep/204499.jpg,
-86,https://dadosabertos.camara.leg.br/api/v2/deputados/204380,Celina Leão,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,DF,56,https://www.camara.leg.br/internet/deputado/bandep/204380.jpg,
-87,https://dadosabertos.camara.leg.br/api/v2/deputados/204370,Célio Moura,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,TO,56,https://www.camara.leg.br/internet/deputado/bandep/204370.jpg,
-88,https://dadosabertos.camara.leg.br/api/v2/deputados/178876,Célio Silveira,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,GO,56,https://www.camara.leg.br/internet/deputado/bandep/178876.jpg,
-89,https://dadosabertos.camara.leg.br/api/v2/deputados/204488,Célio Studart,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,CE,56,https://www.camara.leg.br/internet/deputado/bandep/204488.jpg,
-90,https://dadosabertos.camara.leg.br/api/v2/deputados/141405,Celso Maldaner,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,SC,56,https://www.camara.leg.br/internet/deputado/bandep/141405.jpg,
-91,https://dadosabertos.camara.leg.br/api/v2/deputados/73441,Celso Russomanno,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,SP,56,https://www.camara.leg.br/internet/deputado/bandep/73441.jpg,
-92,https://dadosabertos.camara.leg.br/api/v2/deputados/204496,Celso Sabino,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,PA,56,https://www.camara.leg.br/internet/deputado/bandep/204496.jpg,
-93,https://dadosabertos.camara.leg.br/api/v2/deputados/204504,Cezinha de Madureira,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204504.jpg,
-94,https://dadosabertos.camara.leg.br/api/v2/deputados/205476,Charles Fernandes,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,BA,56,https://www.camara.leg.br/internet/deputado/bandep/205476.jpg,
-95,https://dadosabertos.camara.leg.br/api/v2/deputados/204490,Charlles Evangelista,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204490.jpg,
-96,https://dadosabertos.camara.leg.br/api/v2/deputados/141439,Chico D'Angelo,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/141439.jpg,
-97,https://dadosabertos.camara.leg.br/api/v2/deputados/204476,Chiquinho Brazão,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204476.jpg,
-98,https://dadosabertos.camara.leg.br/api/v2/deputados/204462,Chris Tonietto,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204462.jpg,
-99,https://dadosabertos.camara.leg.br/api/v2/deputados/178928,Christiane de Souza Yared,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,PR,56,https://www.camara.leg.br/internet/deputado/bandep/178928.jpg,
-100,https://dadosabertos.camara.leg.br/api/v2/deputados/204440,Christino Aureo,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204440.jpg,
-101,https://dadosabertos.camara.leg.br/api/v2/deputados/178939,Clarissa Garotinho,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/178939.jpg,
-102,https://dadosabertos.camara.leg.br/api/v2/deputados/74537,Claudio Cajado,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,BA,56,https://www.camara.leg.br/internet/deputado/bandep/74537.jpg,
-103,https://dadosabertos.camara.leg.br/api/v2/deputados/141408,Cleber Verde,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,MA,56,https://www.camara.leg.br/internet/deputado/bandep/141408.jpg,
-104,https://dadosabertos.camara.leg.br/api/v2/deputados/204376,Coronel Armando,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SC,56,https://www.camara.leg.br/internet/deputado/bandep/204376.jpg,
-105,https://dadosabertos.camara.leg.br/api/v2/deputados/204378,Coronel Chrisóstomo,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RO,56,https://www.camara.leg.br/internet/deputado/bandep/204378.jpg,
-106,https://dadosabertos.camara.leg.br/api/v2/deputados/204514,Coronel Tadeu,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204514.jpg,
-107,https://dadosabertos.camara.leg.br/api/v2/deputados/178963,Covatti Filho,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,RS,56,https://www.camara.leg.br/internet/deputado/bandep/178963.jpg,
-108,https://dadosabertos.camara.leg.br/api/v2/deputados/135054,Cristiano Vale,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,PA,56,https://www.camara.leg.br/internet/deputado/bandep/135054.jpg,
-109,https://dadosabertos.camara.leg.br/api/v2/deputados/204355,Da Vitoria,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,ES,56,https://www.camara.leg.br/internet/deputado/bandep/204355.jpg,
-110,https://dadosabertos.camara.leg.br/api/v2/deputados/141411,Dagoberto Nogueira,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,MS,56,https://www.camara.leg.br/internet/deputado/bandep/141411.jpg,
-111,https://dadosabertos.camara.leg.br/api/v2/deputados/74467,Damião Feliciano,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,PB,56,https://www.camara.leg.br/internet/deputado/bandep/74467.jpg,
-112,https://dadosabertos.camara.leg.br/api/v2/deputados/74060,Daniel Almeida,5,https://dadosabertos.camara.leg.br/api/v2/partidos/36779,BA,56,https://www.camara.leg.br/internet/deputado/bandep/74060.jpg,
-113,https://dadosabertos.camara.leg.br/api/v2/deputados/178916,Daniel Coelho,1,https://dadosabertos.camara.leg.br/api/v2/partidos/37905,PE,56,https://www.camara.leg.br/internet/deputado/bandep/178916.jpg,
-114,https://dadosabertos.camara.leg.br/api/v2/deputados/204367,Daniel Freitas,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SC,56,https://www.camara.leg.br/internet/deputado/bandep/204367.jpg,
-115,https://dadosabertos.camara.leg.br/api/v2/deputados/204454,Daniel Silveira,17,https://dadosabertos.camara.leg.br/api/v2/partidos/36845,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204454.jpg,
-116,https://dadosabertos.camara.leg.br/api/v2/deputados/204409,Daniel Trzeciak,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,RS,56,https://www.camara.leg.br/internet/deputado/bandep/204409.jpg,
-117,https://dadosabertos.camara.leg.br/api/v2/deputados/204459,Daniela do Waguinho,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204459.jpg,
-118,https://dadosabertos.camara.leg.br/api/v2/deputados/160528,Danilo Cabral,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,PE,56,https://www.camara.leg.br/internet/deputado/bandep/160528.jpg,
-119,https://dadosabertos.camara.leg.br/api/v2/deputados/62881,Danilo Forte,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,CE,56,https://www.camara.leg.br/internet/deputado/bandep/62881.jpg,
-120,https://dadosabertos.camara.leg.br/api/v2/deputados/160552,Danrlei de Deus Hinterholz,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,RS,56,https://www.camara.leg.br/internet/deputado/bandep/160552.jpg,
-121,https://dadosabertos.camara.leg.br/api/v2/deputados/116379,Darci de Matos,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,SC,56,https://www.camara.leg.br/internet/deputado/bandep/116379.jpg,
-122,https://dadosabertos.camara.leg.br/api/v2/deputados/205548,David Miranda,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/205548.jpg,
-123,https://dadosabertos.camara.leg.br/api/v2/deputados/204511,David Soares,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204511.jpg,
-124,https://dadosabertos.camara.leg.br/api/v2/deputados/204451,Delegado Antônio Furtado,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204451.jpg,
-125,https://dadosabertos.camara.leg.br/api/v2/deputados/178908,Delegado Éder Mauro,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,PA,56,https://www.camara.leg.br/internet/deputado/bandep/178908.jpg,
-126,https://dadosabertos.camara.leg.br/api/v2/deputados/204512,Delegado Marcelo Freitas,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204512.jpg,
-127,https://dadosabertos.camara.leg.br/api/v2/deputados/204569,Delegado Pablo,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,AM,56,https://www.camara.leg.br/internet/deputado/bandep/204569.jpg,
-128,https://dadosabertos.camara.leg.br/api/v2/deputados/164359,Delegado Waldir,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,GO,56,https://www.camara.leg.br/internet/deputado/bandep/164359.jpg,
-129,https://dadosabertos.camara.leg.br/api/v2/deputados/204542,Denis Bezerra,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,CE,56,https://www.camara.leg.br/internet/deputado/bandep/204542.jpg,
-130,https://dadosabertos.camara.leg.br/api/v2/deputados/160588,Diego Andrade,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,MG,56,https://www.camara.leg.br/internet/deputado/bandep/160588.jpg,
-131,https://dadosabertos.camara.leg.br/api/v2/deputados/178929,Diego Garcia,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,PR,56,https://www.camara.leg.br/internet/deputado/bandep/178929.jpg,
-132,https://dadosabertos.camara.leg.br/api/v2/deputados/160599,Dimas Fabiano,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,MG,56,https://www.camara.leg.br/internet/deputado/bandep/160599.jpg,
-133,https://dadosabertos.camara.leg.br/api/v2/deputados/143632,Domingos Neto,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,CE,56,https://www.camara.leg.br/internet/deputado/bandep/143632.jpg,
-134,https://dadosabertos.camara.leg.br/api/v2/deputados/160758,Domingos Sávio,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,MG,56,https://www.camara.leg.br/internet/deputado/bandep/160758.jpg,
-135,https://dadosabertos.camara.leg.br/api/v2/deputados/213854,Dr. Agripino Magalhães,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,CE,56,https://www.camara.leg.br/internet/deputado/bandep/213854.jpg,
-136,https://dadosabertos.camara.leg.br/api/v2/deputados/204518,Dr. Frederico,4,https://dadosabertos.camara.leg.br/api/v2/partidos/37907,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204518.jpg,
-137,https://dadosabertos.camara.leg.br/api/v2/deputados/204481,Dr. Jaziel,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,CE,56,https://www.camara.leg.br/internet/deputado/bandep/204481.jpg,
-138,https://dadosabertos.camara.leg.br/api/v2/deputados/204439,Dr. Leonardo,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,MT,56,https://www.camara.leg.br/internet/deputado/bandep/204439.jpg,
-139,https://dadosabertos.camara.leg.br/api/v2/deputados/204450,Dr. Luiz Antonio Teixeira Jr.,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204450.jpg,
-140,https://dadosabertos.camara.leg.br/api/v2/deputados/204351,Dr. Luiz Ovando,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,MS,56,https://www.camara.leg.br/internet/deputado/bandep/204351.jpg,
-141,https://dadosabertos.camara.leg.br/api/v2/deputados/204412,Dr. Zacharias Calil,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,GO,56,https://www.camara.leg.br/internet/deputado/bandep/204412.jpg,
-142,https://dadosabertos.camara.leg.br/api/v2/deputados/81297,Dra. Soraya Manato,17,https://dadosabertos.camara.leg.br/api/v2/partidos/36845,ES,56,https://www.camara.leg.br/internet/deputado/bandep/81297.jpg,
-143,https://dadosabertos.camara.leg.br/api/v2/deputados/204434,Dra. Vanda Milani,10,https://dadosabertos.camara.leg.br/api/v2/partidos/36763,AC,56,https://www.camara.leg.br/internet/deputado/bandep/204434.jpg,
-144,https://dadosabertos.camara.leg.br/api/v2/deputados/178994,Dulce Miranda,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,TO,56,https://www.camara.leg.br/internet/deputado/bandep/178994.jpg,
-145,https://dadosabertos.camara.leg.br/api/v2/deputados/204562,Edilázio Júnior,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,MA,56,https://www.camara.leg.br/internet/deputado/bandep/204562.jpg,
-146,https://dadosabertos.camara.leg.br/api/v2/deputados/141417,Edio Lopes,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RR,56,https://www.camara.leg.br/internet/deputado/bandep/141417.jpg,
-147,https://dadosabertos.camara.leg.br/api/v2/deputados/204421,Edna Henrique,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,PB,56,https://www.camara.leg.br/internet/deputado/bandep/204421.jpg,
-148,https://dadosabertos.camara.leg.br/api/v2/deputados/74655,Eduardo Barbosa,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,MG,56,https://www.camara.leg.br/internet/deputado/bandep/74655.jpg,
-149,https://dadosabertos.camara.leg.br/api/v2/deputados/204541,Eduardo Bismarck,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,CE,56,https://www.camara.leg.br/internet/deputado/bandep/204541.jpg,
-150,https://dadosabertos.camara.leg.br/api/v2/deputados/92346,Eduardo Bolsonaro,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SP,56,https://www.camara.leg.br/internet/deputado/bandep/92346.jpg,
-151,https://dadosabertos.camara.leg.br/api/v2/deputados/204500,Eduardo Costa,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,PA,56,https://www.camara.leg.br/internet/deputado/bandep/204500.jpg,
-152,https://dadosabertos.camara.leg.br/api/v2/deputados/178977,Eduardo Cury,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,SP,56,https://www.camara.leg.br/internet/deputado/bandep/178977.jpg,
-153,https://dadosabertos.camara.leg.br/api/v2/deputados/141421,Eduardo da Fonte,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,PE,56,https://www.camara.leg.br/internet/deputado/bandep/141421.jpg,
-154,https://dadosabertos.camara.leg.br/api/v2/deputados/141422,Efraim Filho,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,PB,56,https://www.camara.leg.br/internet/deputado/bandep/141422.jpg,
-155,https://dadosabertos.camara.leg.br/api/v2/deputados/74075,Elcione Barbalho,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,PA,56,https://www.camara.leg.br/internet/deputado/bandep/74075.jpg,
-156,https://dadosabertos.camara.leg.br/api/v2/deputados/204364,Eli Borges,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,TO,56,https://www.camara.leg.br/internet/deputado/bandep/204364.jpg,
-157,https://dadosabertos.camara.leg.br/api/v2/deputados/160532,Eli Corrêa Filho,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,SP,56,https://www.camara.leg.br/internet/deputado/bandep/160532.jpg,
-158,https://dadosabertos.camara.leg.br/api/v2/deputados/204389,Elias Vaz,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,GO,56,https://www.camara.leg.br/internet/deputado/bandep/204389.jpg,
-159,https://dadosabertos.camara.leg.br/api/v2/deputados/220008,Eliza Virgínia,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,PB,56,https://www.camara.leg.br/internet/deputado/bandep/220008.jpg,
-160,https://dadosabertos.camara.leg.br/api/v2/deputados/178854,Elmar Nascimento,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,BA,56,https://www.camara.leg.br/internet/deputado/bandep/178854.jpg,
-161,https://dadosabertos.camara.leg.br/api/v2/deputados/198783,Emanuel Pinheiro Neto,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,MT,56,https://www.camara.leg.br/internet/deputado/bandep/198783.jpg,
-162,https://dadosabertos.camara.leg.br/api/v2/deputados/161550,Emidinho Madeira,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,MG,56,https://www.camara.leg.br/internet/deputado/bandep/161550.jpg,
-163,https://dadosabertos.camara.leg.br/api/v2/deputados/132504,Enio Verri,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,PR,56,https://www.camara.leg.br/internet/deputado/bandep/132504.jpg,
-164,https://dadosabertos.camara.leg.br/api/v2/deputados/204537,Enrico Misasi,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204537.jpg,
-165,https://dadosabertos.camara.leg.br/api/v2/deputados/160575,Erika Kokay,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,DF,56,https://www.camara.leg.br/internet/deputado/bandep/160575.jpg,
-166,https://dadosabertos.camara.leg.br/api/v2/deputados/160640,Eros Biondini,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,MG,56,https://www.camara.leg.br/internet/deputado/bandep/160640.jpg,
-167,https://dadosabertos.camara.leg.br/api/v2/deputados/204482,Euclydes Pettersen,12,https://dadosabertos.camara.leg.br/api/v2/partidos/36833,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204482.jpg,
-168,https://dadosabertos.camara.leg.br/api/v2/deputados/178871,Evair Vieira de Melo,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,ES,56,https://www.camara.leg.br/internet/deputado/bandep/178871.jpg,
-169,https://dadosabertos.camara.leg.br/api/v2/deputados/178953,Expedito Netto,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,RO,56,https://www.camara.leg.br/internet/deputado/bandep/178953.jpg,
-170,https://dadosabertos.camara.leg.br/api/v2/deputados/68720,Fábio Henrique,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,SE,56,https://www.camara.leg.br/internet/deputado/bandep/68720.jpg,
-171,https://dadosabertos.camara.leg.br/api/v2/deputados/141427,Fábio Ramalho,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,MG,56,https://www.camara.leg.br/internet/deputado/bandep/141427.jpg,
-172,https://dadosabertos.camara.leg.br/api/v2/deputados/171623,Fabio Reis,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,SE,56,https://www.camara.leg.br/internet/deputado/bandep/171623.jpg,
-173,https://dadosabertos.camara.leg.br/api/v2/deputados/204368,Fabio Schiochet,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,SC,56,https://www.camara.leg.br/internet/deputado/bandep/204368.jpg,
-174,https://dadosabertos.camara.leg.br/api/v2/deputados/160587,Fábio Trad,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,MS,56,https://www.camara.leg.br/internet/deputado/bandep/160587.jpg,
-175,https://dadosabertos.camara.leg.br/api/v2/deputados/66828,Fausto Pinato,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,SP,56,https://www.camara.leg.br/internet/deputado/bandep/66828.jpg,
-176,https://dadosabertos.camara.leg.br/api/v2/deputados/204477,Felício Laterça,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204477.jpg,
-177,https://dadosabertos.camara.leg.br/api/v2/deputados/72442,Felipe Carreras,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,PE,56,https://www.camara.leg.br/internet/deputado/bandep/72442.jpg,
-178,https://dadosabertos.camara.leg.br/api/v2/deputados/204398,Felipe Francischini,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,PR,56,https://www.camara.leg.br/internet/deputado/bandep/204398.jpg,
-179,https://dadosabertos.camara.leg.br/api/v2/deputados/204371,Felipe Rigoni,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,ES,56,https://www.camara.leg.br/internet/deputado/bandep/204371.jpg,
-180,https://dadosabertos.camara.leg.br/api/v2/deputados/160666,Félix Mendonça Júnior,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,BA,56,https://www.camara.leg.br/internet/deputado/bandep/160666.jpg,
-181,https://dadosabertos.camara.leg.br/api/v2/deputados/204407,Fernanda Melchionna,15,https://dadosabertos.camara.leg.br/api/v2/partidos/36839,RS,56,https://www.camara.leg.br/internet/deputado/bandep/204407.jpg,
-182,https://dadosabertos.camara.leg.br/api/v2/deputados/141431,Fernando Coelho Filho,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,PE,56,https://www.camara.leg.br/internet/deputado/bandep/141431.jpg,
-183,https://dadosabertos.camara.leg.br/api/v2/deputados/92699,Fernando Monteiro,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,PE,56,https://www.camara.leg.br/internet/deputado/bandep/92699.jpg,
-184,https://dadosabertos.camara.leg.br/api/v2/deputados/204427,Fernando Rodolfo,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,PE,56,https://www.camara.leg.br/internet/deputado/bandep/204427.jpg,
-185,https://dadosabertos.camara.leg.br/api/v2/deputados/204411,Filipe Barros,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,PR,56,https://www.camara.leg.br/internet/deputado/bandep/204411.jpg,
-186,https://dadosabertos.camara.leg.br/api/v2/deputados/204354,Flávia Arruda,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,DF,56,https://www.camara.leg.br/internet/deputado/bandep/204354.jpg,
-187,https://dadosabertos.camara.leg.br/api/v2/deputados/160598,Flávia Morais,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,GO,56,https://www.camara.leg.br/internet/deputado/bandep/160598.jpg,
-188,https://dadosabertos.camara.leg.br/api/v2/deputados/141434,Flaviano Melo,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,AC,56,https://www.camara.leg.br/internet/deputado/bandep/141434.jpg,
-189,https://dadosabertos.camara.leg.br/api/v2/deputados/191923,Flávio Nogueira,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,PI,56,https://www.camara.leg.br/internet/deputado/bandep/191923.jpg,
-190,https://dadosabertos.camara.leg.br/api/v2/deputados/204392,Francisco Jr.,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,GO,56,https://www.camara.leg.br/internet/deputado/bandep/204392.jpg,
-191,https://dadosabertos.camara.leg.br/api/v2/deputados/204510,Franco Cartafina,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204510.jpg,
-192,https://dadosabertos.camara.leg.br/api/v2/deputados/204494,Fred Costa,4,https://dadosabertos.camara.leg.br/api/v2/partidos/37907,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204494.jpg,
-193,https://dadosabertos.camara.leg.br/api/v2/deputados/204393,Frei Anastacio Ribeiro,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,PB,56,https://www.camara.leg.br/internet/deputado/bandep/204393.jpg,
-194,https://dadosabertos.camara.leg.br/api/v2/deputados/115746,Gelson Azevedo,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/115746.jpg,
-195,https://dadosabertos.camara.leg.br/api/v2/deputados/160669,Genecias Noronha,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,CE,56,https://www.camara.leg.br/internet/deputado/bandep/160669.jpg,
-196,https://dadosabertos.camara.leg.br/api/v2/deputados/204473,General Girão,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RN,56,https://www.camara.leg.br/internet/deputado/bandep/204473.jpg,
-197,https://dadosabertos.camara.leg.br/api/v2/deputados/204484,General Peternelli,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204484.jpg,
-198,https://dadosabertos.camara.leg.br/api/v2/deputados/204527,Geninho Zuliani,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204527.jpg,
-199,https://dadosabertos.camara.leg.br/api/v2/deputados/178966,Geovania de Sá,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,SC,56,https://www.camara.leg.br/internet/deputado/bandep/178966.jpg,
-200,https://dadosabertos.camara.leg.br/api/v2/deputados/204394,Gervásio Maia,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,PB,56,https://www.camara.leg.br/internet/deputado/bandep/204394.jpg,
-201,https://dadosabertos.camara.leg.br/api/v2/deputados/74383,Giacobo,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,PR,56,https://www.camara.leg.br/internet/deputado/bandep/74383.jpg,
-202,https://dadosabertos.camara.leg.br/api/v2/deputados/204575,Gil Cutrim,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,MA,56,https://www.camara.leg.br/internet/deputado/bandep/204575.jpg,
-203,https://dadosabertos.camara.leg.br/api/v2/deputados/204491,Gilberto Abramo,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204491.jpg,
-204,https://dadosabertos.camara.leg.br/api/v2/deputados/74270,Gilberto Nascimento,12,https://dadosabertos.camara.leg.br/api/v2/partidos/36833,SP,56,https://www.camara.leg.br/internet/deputado/bandep/74270.jpg,
-205,https://dadosabertos.camara.leg.br/api/v2/deputados/204365,Gilson Marques,3,https://dadosabertos.camara.leg.br/api/v2/partidos/37901,SC,56,https://www.camara.leg.br/internet/deputado/bandep/204365.jpg,
-206,https://dadosabertos.camara.leg.br/api/v2/deputados/160673,Giovani Cherini,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RS,56,https://www.camara.leg.br/internet/deputado/bandep/160673.jpg,
-207,https://dadosabertos.camara.leg.br/api/v2/deputados/178996,Giovani Feltes,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,RS,56,https://www.camara.leg.br/internet/deputado/bandep/178996.jpg,
-208,https://dadosabertos.camara.leg.br/api/v2/deputados/152605,Glauber Braga,15,https://dadosabertos.camara.leg.br/api/v2/partidos/36839,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/152605.jpg,
-209,https://dadosabertos.camara.leg.br/api/v2/deputados/204419,Glaustin da Fokus,12,https://dadosabertos.camara.leg.br/api/v2/partidos/36833,GO,56,https://www.camara.leg.br/internet/deputado/bandep/204419.jpg,
-210,https://dadosabertos.camara.leg.br/api/v2/deputados/107283,Gleisi Hoffmann,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,PR,56,https://www.camara.leg.br/internet/deputado/bandep/107283.jpg,
-211,https://dadosabertos.camara.leg.br/api/v2/deputados/74419,Gonzaga Patriota,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,PE,56,https://www.camara.leg.br/internet/deputado/bandep/74419.jpg,
-212,https://dadosabertos.camara.leg.br/api/v2/deputados/198197,Greyce Elias,0,https://dadosabertos.camara.leg.br/api/v2/partidos/36898,MG,56,https://www.camara.leg.br/internet/deputado/bandep/198197.jpg,
-213,https://dadosabertos.camara.leg.br/api/v2/deputados/204513,Guiga Peixoto,12,https://dadosabertos.camara.leg.br/api/v2/partidos/36833,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204513.jpg,
-214,https://dadosabertos.camara.leg.br/api/v2/deputados/160667,Guilherme Mussi,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,SP,56,https://www.camara.leg.br/internet/deputado/bandep/160667.jpg,
-215,https://dadosabertos.camara.leg.br/api/v2/deputados/204442,Gurgel,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204442.jpg,
-216,https://dadosabertos.camara.leg.br/api/v2/deputados/73460,Gustavo Fruet,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,PR,56,https://www.camara.leg.br/internet/deputado/bandep/73460.jpg,
-217,https://dadosabertos.camara.leg.br/api/v2/deputados/204408,Gustinho Ribeiro,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,SE,56,https://www.camara.leg.br/internet/deputado/bandep/204408.jpg,
-218,https://dadosabertos.camara.leg.br/api/v2/deputados/204456,Gutemberg Reis,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204456.jpg,
-219,https://dadosabertos.camara.leg.br/api/v2/deputados/204465,Haroldo Cathedral,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,RR,56,https://www.camara.leg.br/internet/deputado/bandep/204465.jpg,
-220,https://dadosabertos.camara.leg.br/api/v2/deputados/204548,Heitor Freire,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,CE,56,https://www.camara.leg.br/internet/deputado/bandep/204548.jpg,
-221,https://dadosabertos.camara.leg.br/api/v2/deputados/178964,Heitor Schuch,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,RS,56,https://www.camara.leg.br/internet/deputado/bandep/178964.jpg,
-222,https://dadosabertos.camara.leg.br/api/v2/deputados/178873,Helder Salomão,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,ES,56,https://www.camara.leg.br/internet/deputado/bandep/178873.jpg,
-223,https://dadosabertos.camara.leg.br/api/v2/deputados/204373,Hélio Costa,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,SC,56,https://www.camara.leg.br/internet/deputado/bandep/204373.jpg,
-224,https://dadosabertos.camara.leg.br/api/v2/deputados/178909,Hélio Leite,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,PA,56,https://www.camara.leg.br/internet/deputado/bandep/178909.jpg,
-225,https://dadosabertos.camara.leg.br/api/v2/deputados/204444,Helio Lopes,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204444.jpg,
-226,https://dadosabertos.camara.leg.br/api/v2/deputados/73482,Henrique Fontana,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,RS,56,https://www.camara.leg.br/internet/deputado/bandep/73482.jpg,
-227,https://dadosabertos.camara.leg.br/api/v2/deputados/204539,Hercílio Coelho Diniz,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204539.jpg,
-228,https://dadosabertos.camara.leg.br/api/v2/deputados/178981,Herculano Passos,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,SP,56,https://www.camara.leg.br/internet/deputado/bandep/178981.jpg,
-229,https://dadosabertos.camara.leg.br/api/v2/deputados/73772,Hermes Parcianello,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,PR,56,https://www.camara.leg.br/internet/deputado/bandep/73772.jpg,
-230,https://dadosabertos.camara.leg.br/api/v2/deputados/178884,Hildo Rocha,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,MA,56,https://www.camara.leg.br/internet/deputado/bandep/178884.jpg,
-231,https://dadosabertos.camara.leg.br/api/v2/deputados/178959,Hiran Gonçalves,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,RR,56,https://www.camara.leg.br/internet/deputado/bandep/178959.jpg,
-232,https://dadosabertos.camara.leg.br/api/v2/deputados/141450,Hugo Leal,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/141450.jpg,
-233,https://dadosabertos.camara.leg.br/api/v2/deputados/160674,Hugo Motta,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,PB,56,https://www.camara.leg.br/internet/deputado/bandep/160674.jpg,
-234,https://dadosabertos.camara.leg.br/api/v2/deputados/204533,Idilvan Alencar,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,CE,56,https://www.camara.leg.br/internet/deputado/bandep/204533.jpg,
-235,https://dadosabertos.camara.leg.br/api/v2/deputados/204564,Igor Kannário,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,BA,56,https://www.camara.leg.br/internet/deputado/bandep/204564.jpg,
-236,https://dadosabertos.camara.leg.br/api/v2/deputados/204508,Igor Timo,8,https://dadosabertos.camara.leg.br/api/v2/partidos/36896,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204508.jpg,
-237,https://dadosabertos.camara.leg.br/api/v2/deputados/67138,Iracema Portella,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,PI,56,https://www.camara.leg.br/internet/deputado/bandep/67138.jpg,
-238,https://dadosabertos.camara.leg.br/api/v2/deputados/204436,Isnaldo Bulhões Jr.,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,AL,56,https://www.camara.leg.br/internet/deputado/bandep/204436.jpg,
-239,https://dadosabertos.camara.leg.br/api/v2/deputados/73531,Ivan Valente,15,https://dadosabertos.camara.leg.br/api/v2/partidos/36839,SP,56,https://www.camara.leg.br/internet/deputado/bandep/73531.jpg,
-240,https://dadosabertos.camara.leg.br/api/v2/deputados/74848,Jandira Feghali,5,https://dadosabertos.camara.leg.br/api/v2/partidos/36779,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/74848.jpg,
-241,https://dadosabertos.camara.leg.br/api/v2/deputados/108338,Jaqueline Cassol,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,RO,56,https://www.camara.leg.br/internet/deputado/bandep/108338.jpg,
-242,https://dadosabertos.camara.leg.br/api/v2/deputados/74273,Jefferson Campos,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SP,56,https://www.camara.leg.br/internet/deputado/bandep/74273.jpg,
-243,https://dadosabertos.camara.leg.br/api/v2/deputados/160570,Jerônimo Goergen,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,RS,56,https://www.camara.leg.br/internet/deputado/bandep/160570.jpg,
-244,https://dadosabertos.camara.leg.br/api/v2/deputados/178839,Jéssica Sales,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,AC,56,https://www.camara.leg.br/internet/deputado/bandep/178839.jpg,
-245,https://dadosabertos.camara.leg.br/api/v2/deputados/204435,Jesus Sérgio,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,AC,56,https://www.camara.leg.br/internet/deputado/bandep/204435.jpg,
-246,https://dadosabertos.camara.leg.br/api/v2/deputados/160531,Jhonatan de Jesus,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,RR,56,https://www.camara.leg.br/internet/deputado/bandep/160531.jpg,
-247,https://dadosabertos.camara.leg.br/api/v2/deputados/74366,João Campos,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,GO,56,https://www.camara.leg.br/internet/deputado/bandep/74366.jpg,
-248,https://dadosabertos.camara.leg.br/api/v2/deputados/141458,João Carlos Bacelar,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,BA,56,https://www.camara.leg.br/internet/deputado/bandep/141458.jpg,
-249,https://dadosabertos.camara.leg.br/api/v2/deputados/178970,João Daniel,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,SE,56,https://www.camara.leg.br/internet/deputado/bandep/178970.jpg,
-250,https://dadosabertos.camara.leg.br/api/v2/deputados/141459,João Maia,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RN,56,https://www.camara.leg.br/internet/deputado/bandep/141459.jpg,
-251,https://dadosabertos.camara.leg.br/api/v2/deputados/112437,João Marcelo Souza,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,MA,56,https://www.camara.leg.br/internet/deputado/bandep/112437.jpg,
-252,https://dadosabertos.camara.leg.br/api/v2/deputados/204576,João Roma,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,BA,56,https://www.camara.leg.br/internet/deputado/bandep/204576.jpg,
-253,https://dadosabertos.camara.leg.br/api/v2/deputados/178910,Joaquim Passarinho,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,PA,56,https://www.camara.leg.br/internet/deputado/bandep/178910.jpg,
-254,https://dadosabertos.camara.leg.br/api/v2/deputados/214865,Joceval Rodrigues,1,https://dadosabertos.camara.leg.br/api/v2/partidos/37905,BA,56,https://www.camara.leg.br/internet/deputado/bandep/214865.jpg,
-255,https://dadosabertos.camara.leg.br/api/v2/deputados/204468,Joenia Wapichana,19,https://dadosabertos.camara.leg.br/api/v2/partidos/36886,RR,56,https://www.camara.leg.br/internet/deputado/bandep/204468.jpg,
-256,https://dadosabertos.camara.leg.br/api/v2/deputados/204546,Joice Hasselmann,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204546.jpg,
-257,https://dadosabertos.camara.leg.br/api/v2/deputados/217480,Jones Moura,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/217480.jpg,
-258,https://dadosabertos.camara.leg.br/api/v2/deputados/205550,Jorge Braz,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/205550.jpg,
-259,https://dadosabertos.camara.leg.br/api/v2/deputados/178857,Jorge Solla,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,BA,56,https://www.camara.leg.br/internet/deputado/bandep/178857.jpg,
-260,https://dadosabertos.camara.leg.br/api/v2/deputados/141464,José Airton Félix Cirilo,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,CE,56,https://www.camara.leg.br/internet/deputado/bandep/141464.jpg,
-261,https://dadosabertos.camara.leg.br/api/v2/deputados/141470,José Guimarães,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,CE,56,https://www.camara.leg.br/internet/deputado/bandep/141470.jpg,
-262,https://dadosabertos.camara.leg.br/api/v2/deputados/204386,Jose Mario Schreiner,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,GO,56,https://www.camara.leg.br/internet/deputado/bandep/204386.jpg,
-263,https://dadosabertos.camara.leg.br/api/v2/deputados/204472,José Medeiros,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,MT,56,https://www.camara.leg.br/internet/deputado/bandep/204472.jpg,
-264,https://dadosabertos.camara.leg.br/api/v2/deputados/204391,José Nelto,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,GO,56,https://www.camara.leg.br/internet/deputado/bandep/204391.jpg,
-265,https://dadosabertos.camara.leg.br/api/v2/deputados/74079,José Priante,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,PA,56,https://www.camara.leg.br/internet/deputado/bandep/74079.jpg,
-266,https://dadosabertos.camara.leg.br/api/v2/deputados/204555,José Ricardo,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,AM,56,https://www.camara.leg.br/internet/deputado/bandep/204555.jpg,
-267,https://dadosabertos.camara.leg.br/api/v2/deputados/74554,José Rocha,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,BA,56,https://www.camara.leg.br/internet/deputado/bandep/74554.jpg,
-268,https://dadosabertos.camara.leg.br/api/v2/deputados/209189,Joseildo Ramos,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,BA,56,https://www.camara.leg.br/internet/deputado/bandep/209189.jpg,
-269,https://dadosabertos.camara.leg.br/api/v2/deputados/74141,Josias Gomes,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,BA,56,https://www.camara.leg.br/internet/deputado/bandep/74141.jpg,
-270,https://dadosabertos.camara.leg.br/api/v2/deputados/204563,Josimar Maranhãozinho,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,MA,56,https://www.camara.leg.br/internet/deputado/bandep/204563.jpg,
-271,https://dadosabertos.camara.leg.br/api/v2/deputados/215043,Josivaldo JP,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,MA,56,https://www.camara.leg.br/internet/deputado/bandep/215043.jpg,
-272,https://dadosabertos.camara.leg.br/api/v2/deputados/204474,Juarez Costa,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,MT,56,https://www.camara.leg.br/internet/deputado/bandep/204474.jpg,
-273,https://dadosabertos.camara.leg.br/api/v2/deputados/204420,Julian Lemos,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,PB,56,https://www.camara.leg.br/internet/deputado/bandep/204420.jpg,
-274,https://dadosabertos.camara.leg.br/api/v2/deputados/74317,Júlio Cesar,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,PI,56,https://www.camara.leg.br/internet/deputado/bandep/74317.jpg,
-275,https://dadosabertos.camara.leg.br/api/v2/deputados/204372,Julio Cesar Ribeiro,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,DF,56,https://www.camara.leg.br/internet/deputado/bandep/204372.jpg,
-276,https://dadosabertos.camara.leg.br/api/v2/deputados/73586,Júlio Delgado,18,https://dadosabertos.camara.leg.br/api/v2/partidos/36851,MG,56,https://www.camara.leg.br/internet/deputado/bandep/73586.jpg,
-277,https://dadosabertos.camara.leg.br/api/v2/deputados/204457,Juninho do Pneu,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204457.jpg,
-278,https://dadosabertos.camara.leg.br/api/v2/deputados/204520,Junio Amaral,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204520.jpg,
-279,https://dadosabertos.camara.leg.br/api/v2/deputados/204497,Júnior Ferrari,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,PA,56,https://www.camara.leg.br/internet/deputado/bandep/204497.jpg,
-280,https://dadosabertos.camara.leg.br/api/v2/deputados/204574,Junior Lourenço,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,MA,56,https://www.camara.leg.br/internet/deputado/bandep/204574.jpg,
-281,https://dadosabertos.camara.leg.br/api/v2/deputados/204550,Júnior Mano,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,CE,56,https://www.camara.leg.br/internet/deputado/bandep/204550.jpg,
-282,https://dadosabertos.camara.leg.br/api/v2/deputados/178886,Juscelino Filho,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,MA,56,https://www.camara.leg.br/internet/deputado/bandep/178886.jpg,
-283,https://dadosabertos.camara.leg.br/api/v2/deputados/204536,Kim Kataguiri,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204536.jpg,
-284,https://dadosabertos.camara.leg.br/api/v2/deputados/151208,Laercio Oliveira,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,SE,56,https://www.camara.leg.br/internet/deputado/bandep/151208.jpg,
-285,https://dadosabertos.camara.leg.br/api/v2/deputados/98057,Lafayette de Andrada,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,MG,56,https://www.camara.leg.br/internet/deputado/bandep/98057.jpg,
-286,https://dadosabertos.camara.leg.br/api/v2/deputados/160534,Lauriete,12,https://dadosabertos.camara.leg.br/api/v2/partidos/36833,ES,56,https://www.camara.leg.br/internet/deputado/bandep/160534.jpg,
-287,https://dadosabertos.camara.leg.br/api/v2/deputados/141480,Lázaro Botelho,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,TO,56,https://www.camara.leg.br/internet/deputado/bandep/141480.jpg,
-288,https://dadosabertos.camara.leg.br/api/v2/deputados/178832,Leandre,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,PR,56,https://www.camara.leg.br/internet/deputado/bandep/178832.jpg,
-289,https://dadosabertos.camara.leg.br/api/v2/deputados/204375,Leda Sadala,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,AP,56,https://www.camara.leg.br/internet/deputado/bandep/204375.jpg,
-290,https://dadosabertos.camara.leg.br/api/v2/deputados/178825,Leo de Brito,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,AC,56,https://www.camara.leg.br/internet/deputado/bandep/178825.jpg,
-291,https://dadosabertos.camara.leg.br/api/v2/deputados/204359,Léo Moraes,8,https://dadosabertos.camara.leg.br/api/v2/partidos/36896,RO,56,https://www.camara.leg.br/internet/deputado/bandep/204359.jpg,
-292,https://dadosabertos.camara.leg.br/api/v2/deputados/204547,Léo Motta,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204547.jpg,
-293,https://dadosabertos.camara.leg.br/api/v2/deputados/74156,Leonardo Monteiro,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,MG,56,https://www.camara.leg.br/internet/deputado/bandep/74156.jpg,
-294,https://dadosabertos.camara.leg.br/api/v2/deputados/74299,Leônidas Cristino,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,CE,56,https://www.camara.leg.br/internet/deputado/bandep/74299.jpg,
-295,https://dadosabertos.camara.leg.br/api/v2/deputados/92102,Leur Lomanto Júnior,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,BA,56,https://www.camara.leg.br/internet/deputado/bandep/92102.jpg,
-296,https://dadosabertos.camara.leg.br/api/v2/deputados/139285,Lídice da Mata,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,BA,56,https://www.camara.leg.br/internet/deputado/bandep/139285.jpg,
-297,https://dadosabertos.camara.leg.br/api/v2/deputados/74585,Lincoln Portela,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,MG,56,https://www.camara.leg.br/internet/deputado/bandep/74585.jpg,
-298,https://dadosabertos.camara.leg.br/api/v2/deputados/204405,Liziane Bayer,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,RS,56,https://www.camara.leg.br/internet/deputado/bandep/204405.jpg,
-299,https://dadosabertos.camara.leg.br/api/v2/deputados/204382,Loester Trutis,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,MS,56,https://www.camara.leg.br/internet/deputado/bandep/204382.jpg,
-300,https://dadosabertos.camara.leg.br/api/v2/deputados/196358,Lourival Gomes,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/196358.jpg,
-301,https://dadosabertos.camara.leg.br/api/v2/deputados/219592,Lucas Follador,12,https://dadosabertos.camara.leg.br/api/v2/partidos/36833,RO,56,https://www.camara.leg.br/internet/deputado/bandep/219592.jpg,
-302,https://dadosabertos.camara.leg.br/api/v2/deputados/204523,Lucas Gonzalez,3,https://dadosabertos.camara.leg.br/api/v2/partidos/37901,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204523.jpg,
-303,https://dadosabertos.camara.leg.br/api/v2/deputados/204404,Lucas Redecker,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,RS,56,https://www.camara.leg.br/internet/deputado/bandep/204404.jpg,
-304,https://dadosabertos.camara.leg.br/api/v2/deputados/178879,Lucas Vergilio,21,https://dadosabertos.camara.leg.br/api/v2/partidos/37904,GO,56,https://www.camara.leg.br/internet/deputado/bandep/178879.jpg,
-305,https://dadosabertos.camara.leg.br/api/v2/deputados/74478,Luciano Bivar,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,PE,56,https://www.camara.leg.br/internet/deputado/bandep/74478.jpg,
-306,https://dadosabertos.camara.leg.br/api/v2/deputados/178931,Luciano Ducci,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,PR,56,https://www.camara.leg.br/internet/deputado/bandep/178931.jpg,
-307,https://dadosabertos.camara.leg.br/api/v2/deputados/178954,Lucio Mosquini,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,RO,56,https://www.camara.leg.br/internet/deputado/bandep/178954.jpg,
-308,https://dadosabertos.camara.leg.br/api/v2/deputados/204381,Luis Miranda,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,DF,56,https://www.camara.leg.br/internet/deputado/bandep/204381.jpg,
-309,https://dadosabertos.camara.leg.br/api/v2/deputados/160510,Luis Tibé,0,https://dadosabertos.camara.leg.br/api/v2/partidos/36898,MG,56,https://www.camara.leg.br/internet/deputado/bandep/160510.jpg,
-310,https://dadosabertos.camara.leg.br/api/v2/deputados/204410,Luisa Canziani,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,PR,56,https://www.camara.leg.br/internet/deputado/bandep/204410.jpg,
-311,https://dadosabertos.camara.leg.br/api/v2/deputados/204448,Luiz Antônio Corrêa,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204448.jpg,
-312,https://dadosabertos.camara.leg.br/api/v2/deputados/160645,Luiz Carlos,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,AP,56,https://www.camara.leg.br/internet/deputado/bandep/160645.jpg,
-313,https://dadosabertos.camara.leg.br/api/v2/deputados/204485,Luiz Carlos Motta,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204485.jpg,
-314,https://dadosabertos.camara.leg.br/api/v2/deputados/204455,Luiz Lima,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204455.jpg,
-315,https://dadosabertos.camara.leg.br/api/v2/deputados/162332,Luiz Nishimori,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,PR,56,https://www.camara.leg.br/internet/deputado/bandep/162332.jpg,
-316,https://dadosabertos.camara.leg.br/api/v2/deputados/204526,Luiz Philippe de Orleans e Bragança,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204526.jpg,
-317,https://dadosabertos.camara.leg.br/api/v2/deputados/74784,Luiza Erundina,15,https://dadosabertos.camara.leg.br/api/v2/partidos/36839,SP,56,https://www.camara.leg.br/internet/deputado/bandep/74784.jpg,
-318,https://dadosabertos.camara.leg.br/api/v2/deputados/204418,Luizão Goulart,21,https://dadosabertos.camara.leg.br/api/v2/partidos/37904,PR,56,https://www.camara.leg.br/internet/deputado/bandep/204418.jpg,
-319,https://dadosabertos.camara.leg.br/api/v2/deputados/178866,Luizianne Lins,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,CE,56,https://www.camara.leg.br/internet/deputado/bandep/178866.jpg,
-320,https://dadosabertos.camara.leg.br/api/v2/deputados/166402,Magda Mofatto,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,GO,56,https://www.camara.leg.br/internet/deputado/bandep/166402.jpg,
-321,https://dadosabertos.camara.leg.br/api/v2/deputados/204458,Major Fabiana,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204458.jpg,
-322,https://dadosabertos.camara.leg.br/api/v2/deputados/179587,Major Vitor Hugo,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,GO,56,https://www.camara.leg.br/internet/deputado/bandep/179587.jpg,
-323,https://dadosabertos.camara.leg.br/api/v2/deputados/204471,Mara Rocha,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,AC,56,https://www.camara.leg.br/internet/deputado/bandep/204471.jpg,
-324,https://dadosabertos.camara.leg.br/api/v2/deputados/156190,Marcel van Hattem,3,https://dadosabertos.camara.leg.br/api/v2/partidos/37901,RS,56,https://www.camara.leg.br/internet/deputado/bandep/156190.jpg,
-325,https://dadosabertos.camara.leg.br/api/v2/deputados/179000,Marcelo Álvaro Antônio,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,MG,56,https://www.camara.leg.br/internet/deputado/bandep/179000.jpg,
-326,https://dadosabertos.camara.leg.br/api/v2/deputados/146788,Marcelo Aro,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,MG,56,https://www.camara.leg.br/internet/deputado/bandep/146788.jpg,
-327,https://dadosabertos.camara.leg.br/api/v2/deputados/204433,Marcelo Calero,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204433.jpg,
-328,https://dadosabertos.camara.leg.br/api/v2/deputados/76874,Marcelo Freixo,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/76874.jpg,
-329,https://dadosabertos.camara.leg.br/api/v2/deputados/133810,Marcelo Moraes,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RS,56,https://www.camara.leg.br/internet/deputado/bandep/133810.jpg,
-330,https://dadosabertos.camara.leg.br/api/v2/deputados/204558,Marcelo Nilo,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,BA,56,https://www.camara.leg.br/internet/deputado/bandep/204558.jpg,
-331,https://dadosabertos.camara.leg.br/api/v2/deputados/204556,Marcelo Ramos,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,AM,56,https://www.camara.leg.br/internet/deputado/bandep/204556.jpg,
-332,https://dadosabertos.camara.leg.br/api/v2/deputados/178983,Marcio Alvino,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SP,56,https://www.camara.leg.br/internet/deputado/bandep/178983.jpg,
-333,https://dadosabertos.camara.leg.br/api/v2/deputados/179001,Márcio Biolchi,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,RS,56,https://www.camara.leg.br/internet/deputado/bandep/179001.jpg,
-334,https://dadosabertos.camara.leg.br/api/v2/deputados/81055,Márcio Jerry,5,https://dadosabertos.camara.leg.br/api/v2/partidos/36779,MA,56,https://www.camara.leg.br/internet/deputado/bandep/81055.jpg,
-335,https://dadosabertos.camara.leg.br/api/v2/deputados/204452,Márcio Labre,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204452.jpg,
-336,https://dadosabertos.camara.leg.br/api/v2/deputados/160542,Márcio Macêdo,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,SE,56,https://www.camara.leg.br/internet/deputado/bandep/160542.jpg,
-337,https://dadosabertos.camara.leg.br/api/v2/deputados/150418,Márcio Marinho,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,BA,56,https://www.camara.leg.br/internet/deputado/bandep/150418.jpg,
-338,https://dadosabertos.camara.leg.br/api/v2/deputados/204522,Marco Bertaiolli,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204522.jpg,
-339,https://dadosabertos.camara.leg.br/api/v2/deputados/219585,Marco Brasil,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,PR,56,https://www.camara.leg.br/internet/deputado/bandep/219585.jpg,
-340,https://dadosabertos.camara.leg.br/api/v2/deputados/160535,Marcon,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,RS,56,https://www.camara.leg.br/internet/deputado/bandep/160535.jpg,
-341,https://dadosabertos.camara.leg.br/api/v2/deputados/204431,Marcos Aurélio Sampaio,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,PI,56,https://www.camara.leg.br/internet/deputado/bandep/204431.jpg,
-342,https://dadosabertos.camara.leg.br/api/v2/deputados/204506,Marcos Pereira,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204506.jpg,
-343,https://dadosabertos.camara.leg.br/api/v2/deputados/178943,Marcos Soares,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/178943.jpg,
-344,https://dadosabertos.camara.leg.br/api/v2/deputados/204430,Margarete Coelho,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,PI,56,https://www.camara.leg.br/internet/deputado/bandep/204430.jpg,
-345,https://dadosabertos.camara.leg.br/api/v2/deputados/74398,Maria do Rosário,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,RS,56,https://www.camara.leg.br/internet/deputado/bandep/74398.jpg,
-346,https://dadosabertos.camara.leg.br/api/v2/deputados/204540,Maria Rosas,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204540.jpg,
-347,https://dadosabertos.camara.leg.br/api/v2/deputados/204428,Marília Arraes,21,https://dadosabertos.camara.leg.br/api/v2/partidos/37904,PE,56,https://www.camara.leg.br/internet/deputado/bandep/204428.jpg,
-348,https://dadosabertos.camara.leg.br/api/v2/deputados/204432,Marina Santos,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,PI,56,https://www.camara.leg.br/internet/deputado/bandep/204432.jpg,
-349,https://dadosabertos.camara.leg.br/api/v2/deputados/74158,Mário Heringer,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,MG,56,https://www.camara.leg.br/internet/deputado/bandep/74158.jpg,
-350,https://dadosabertos.camara.leg.br/api/v2/deputados/178858,Mário Negromonte Jr.,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,BA,56,https://www.camara.leg.br/internet/deputado/bandep/178858.jpg,
-351,https://dadosabertos.camara.leg.br/api/v2/deputados/204403,Marlon Santos,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RS,56,https://www.camara.leg.br/internet/deputado/bandep/204403.jpg,
-352,https://dadosabertos.camara.leg.br/api/v2/deputados/204566,Marreca Filho,4,https://dadosabertos.camara.leg.br/api/v2/partidos/37907,MA,56,https://www.camara.leg.br/internet/deputado/bandep/204566.jpg,
-353,https://dadosabertos.camara.leg.br/api/v2/deputados/178843,Marx Beltrão,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,AL,56,https://www.camara.leg.br/internet/deputado/bandep/178843.jpg,
-354,https://dadosabertos.camara.leg.br/api/v2/deputados/75431,Maurício Dziedricki,8,https://dadosabertos.camara.leg.br/api/v2/partidos/36896,RS,56,https://www.camara.leg.br/internet/deputado/bandep/75431.jpg,
-355,https://dadosabertos.camara.leg.br/api/v2/deputados/204486,Mauro Benevides Filho,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,CE,56,https://www.camara.leg.br/internet/deputado/bandep/204486.jpg,
-356,https://dadosabertos.camara.leg.br/api/v2/deputados/74749,Mauro Lopes,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,MG,56,https://www.camara.leg.br/internet/deputado/bandep/74749.jpg,
-357,https://dadosabertos.camara.leg.br/api/v2/deputados/141508,Mauro Nazif,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,RO,56,https://www.camara.leg.br/internet/deputado/bandep/141508.jpg,
-358,https://dadosabertos.camara.leg.br/api/v2/deputados/188097,Merlong Solano,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,PI,56,https://www.camara.leg.br/internet/deputado/bandep/188097.jpg,
-359,https://dadosabertos.camara.leg.br/api/v2/deputados/178985,Miguel Lombardi,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SP,56,https://www.camara.leg.br/internet/deputado/bandep/178985.jpg,
-360,https://dadosabertos.camara.leg.br/api/v2/deputados/92172,Milton Coelho,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,PE,56,https://www.camara.leg.br/internet/deputado/bandep/92172.jpg,
-361,https://dadosabertos.camara.leg.br/api/v2/deputados/154178,Milton Vieira,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,SP,56,https://www.camara.leg.br/internet/deputado/bandep/154178.jpg,
-362,https://dadosabertos.camara.leg.br/api/v2/deputados/178895,Misael Varella,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,MG,56,https://www.camara.leg.br/internet/deputado/bandep/178895.jpg,
-363,https://dadosabertos.camara.leg.br/api/v2/deputados/204453,Natália Bonavides,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,RN,56,https://www.camara.leg.br/internet/deputado/bandep/204453.jpg,
-364,https://dadosabertos.camara.leg.br/api/v2/deputados/204449,Nelson Barbudo,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,MT,56,https://www.camara.leg.br/internet/deputado/bandep/204449.jpg,
-365,https://dadosabertos.camara.leg.br/api/v2/deputados/204415,Nereu Crispim,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,RS,56,https://www.camara.leg.br/internet/deputado/bandep/204415.jpg,
-366,https://dadosabertos.camara.leg.br/api/v2/deputados/146307,Neri Geller,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,MT,56,https://www.camara.leg.br/internet/deputado/bandep/146307.jpg,
-367,https://dadosabertos.camara.leg.br/api/v2/deputados/74165,Neucimar Fraga,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,ES,56,https://www.camara.leg.br/internet/deputado/bandep/74165.jpg,
-368,https://dadosabertos.camara.leg.br/api/v2/deputados/178896,Newton Cardoso Jr,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,MG,56,https://www.camara.leg.br/internet/deputado/bandep/178896.jpg,
-369,https://dadosabertos.camara.leg.br/api/v2/deputados/204384,Ney Leprevost,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,PR,56,https://www.camara.leg.br/internet/deputado/bandep/204384.jpg,
-370,https://dadosabertos.camara.leg.br/api/v2/deputados/204479,Nicoletti,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,RR,56,https://www.camara.leg.br/internet/deputado/bandep/204479.jpg,
-371,https://dadosabertos.camara.leg.br/api/v2/deputados/74352,Nilson Pinto,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,PA,56,https://www.camara.leg.br/internet/deputado/bandep/74352.jpg,
-372,https://dadosabertos.camara.leg.br/api/v2/deputados/178986,Nilto Tatto,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,SP,56,https://www.camara.leg.br/internet/deputado/bandep/178986.jpg,
-373,https://dadosabertos.camara.leg.br/api/v2/deputados/194260,Nivaldo Albuquerque,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,AL,56,https://www.camara.leg.br/internet/deputado/bandep/194260.jpg,
-374,https://dadosabertos.camara.leg.br/api/v2/deputados/66179,Norma Ayub,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,ES,56,https://www.camara.leg.br/internet/deputado/bandep/66179.jpg,
-375,https://dadosabertos.camara.leg.br/api/v2/deputados/74159,Odair Cunha,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,MG,56,https://www.camara.leg.br/internet/deputado/bandep/74159.jpg,
-376,https://dadosabertos.camara.leg.br/api/v2/deputados/204498,Olival Marques,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,PA,56,https://www.camara.leg.br/internet/deputado/bandep/204498.jpg,
-377,https://dadosabertos.camara.leg.br/api/v2/deputados/74399,Onyx Lorenzoni,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RS,56,https://www.camara.leg.br/internet/deputado/bandep/74399.jpg,
-378,https://dadosabertos.camara.leg.br/api/v2/deputados/178987,Orlando Silva,5,https://dadosabertos.camara.leg.br/api/v2/partidos/36779,SP,56,https://www.camara.leg.br/internet/deputado/bandep/178987.jpg,
-379,https://dadosabertos.camara.leg.br/api/v2/deputados/73463,Osmar Serraglio,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,PR,56,https://www.camara.leg.br/internet/deputado/bandep/73463.jpg,
-380,https://dadosabertos.camara.leg.br/api/v2/deputados/73692,Osmar Terra,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,RS,56,https://www.camara.leg.br/internet/deputado/bandep/73692.jpg,
-381,https://dadosabertos.camara.leg.br/api/v2/deputados/204422,Ossesio Silva,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,PE,56,https://www.camara.leg.br/internet/deputado/bandep/204422.jpg,
-382,https://dadosabertos.camara.leg.br/api/v2/deputados/204441,Otoni de Paula,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204441.jpg,
-383,https://dadosabertos.camara.leg.br/api/v2/deputados/204475,Ottaci Nascimento,21,https://dadosabertos.camara.leg.br/api/v2/partidos/37904,RR,56,https://www.camara.leg.br/internet/deputado/bandep/204475.jpg,
-384,https://dadosabertos.camara.leg.br/api/v2/deputados/204573,Otto Alencar Filho,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,BA,56,https://www.camara.leg.br/internet/deputado/bandep/204573.jpg,
-385,https://dadosabertos.camara.leg.br/api/v2/deputados/160556,Padre João,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,MG,56,https://www.camara.leg.br/internet/deputado/bandep/160556.jpg,
-386,https://dadosabertos.camara.leg.br/api/v2/deputados/160642,Pastor Eurico,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,PE,56,https://www.camara.leg.br/internet/deputado/bandep/160642.jpg,
-387,https://dadosabertos.camara.leg.br/api/v2/deputados/204570,Pastor Gil,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,MA,56,https://www.camara.leg.br/internet/deputado/bandep/204570.jpg,
-388,https://dadosabertos.camara.leg.br/api/v2/deputados/204553,Pastor Sargento Isidório,0,https://dadosabertos.camara.leg.br/api/v2/partidos/36898,BA,56,https://www.camara.leg.br/internet/deputado/bandep/204553.jpg,
-389,https://dadosabertos.camara.leg.br/api/v2/deputados/205535,Patricia Ferraz,8,https://dadosabertos.camara.leg.br/api/v2/partidos/36896,AP,56,https://www.camara.leg.br/internet/deputado/bandep/205535.jpg,
-390,https://dadosabertos.camara.leg.br/api/v2/deputados/74160,Patrus Ananias,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,MG,56,https://www.camara.leg.br/internet/deputado/bandep/74160.jpg,
-391,https://dadosabertos.camara.leg.br/api/v2/deputados/204377,Paula Belmonte,1,https://dadosabertos.camara.leg.br/api/v2/partidos/37905,DF,56,https://www.camara.leg.br/internet/deputado/bandep/204377.jpg,
-392,https://dadosabertos.camara.leg.br/api/v2/deputados/171617,Paulão,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,AL,56,https://www.camara.leg.br/internet/deputado/bandep/171617.jpg,
-393,https://dadosabertos.camara.leg.br/api/v2/deputados/141518,Paulinho da Força,21,https://dadosabertos.camara.leg.br/api/v2/partidos/37904,SP,56,https://www.camara.leg.br/internet/deputado/bandep/141518.jpg,
-394,https://dadosabertos.camara.leg.br/api/v2/deputados/141516,Paulo Abi-Ackel,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,MG,56,https://www.camara.leg.br/internet/deputado/bandep/141516.jpg,
-395,https://dadosabertos.camara.leg.br/api/v2/deputados/178860,Paulo Azi,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,BA,56,https://www.camara.leg.br/internet/deputado/bandep/178860.jpg,
-396,https://dadosabertos.camara.leg.br/api/v2/deputados/204538,Paulo Bengtson,17,https://dadosabertos.camara.leg.br/api/v2/partidos/36845,PA,56,https://www.camara.leg.br/internet/deputado/bandep/204538.jpg,
-397,https://dadosabertos.camara.leg.br/api/v2/deputados/193726,Paulo Eduardo Martins,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,PR,56,https://www.camara.leg.br/internet/deputado/bandep/193726.jpg,
-398,https://dadosabertos.camara.leg.br/api/v2/deputados/160517,Paulo Foletto,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,ES,56,https://www.camara.leg.br/internet/deputado/bandep/160517.jpg,
-399,https://dadosabertos.camara.leg.br/api/v2/deputados/160558,Paulo Freire Costa,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SP,56,https://www.camara.leg.br/internet/deputado/bandep/160558.jpg,
-400,https://dadosabertos.camara.leg.br/api/v2/deputados/204461,Paulo Ganime,3,https://dadosabertos.camara.leg.br/api/v2/partidos/37901,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204461.jpg,
-401,https://dadosabertos.camara.leg.br/api/v2/deputados/204492,Paulo Guedes,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204492.jpg,
-402,https://dadosabertos.camara.leg.br/api/v2/deputados/74574,Paulo Magalhães,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,BA,56,https://www.camara.leg.br/internet/deputado/bandep/74574.jpg,
-403,https://dadosabertos.camara.leg.br/api/v2/deputados/74400,Paulo Pimenta,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,RS,56,https://www.camara.leg.br/internet/deputado/bandep/74400.jpg,
-404,https://dadosabertos.camara.leg.br/api/v2/deputados/133968,Paulo Ramos,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/133968.jpg,
-405,https://dadosabertos.camara.leg.br/api/v2/deputados/141488,Paulo Teixeira,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,SP,56,https://www.camara.leg.br/internet/deputado/bandep/141488.jpg,
-406,https://dadosabertos.camara.leg.br/api/v2/deputados/90201,Pedro Augusto Bezerra,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,CE,56,https://www.camara.leg.br/internet/deputado/bandep/90201.jpg,
-407,https://dadosabertos.camara.leg.br/api/v2/deputados/215045,Pedro Augusto Palareti,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/215045.jpg,
-408,https://dadosabertos.camara.leg.br/api/v2/deputados/178912,Pedro Cunha Lima,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,PB,56,https://www.camara.leg.br/internet/deputado/bandep/178912.jpg,
-409,https://dadosabertos.camara.leg.br/api/v2/deputados/122974,Pedro Lucas Fernandes,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,MA,56,https://www.camara.leg.br/internet/deputado/bandep/122974.jpg,
-410,https://dadosabertos.camara.leg.br/api/v2/deputados/204395,Pedro Lupion,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,PR,56,https://www.camara.leg.br/internet/deputado/bandep/204395.jpg,
-411,https://dadosabertos.camara.leg.br/api/v2/deputados/122158,Pedro Paulo,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/122158.jpg,
-412,https://dadosabertos.camara.leg.br/api/v2/deputados/160604,Pedro Uczai,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,SC,56,https://www.camara.leg.br/internet/deputado/bandep/160604.jpg,
-413,https://dadosabertos.camara.leg.br/api/v2/deputados/178844,Pedro Vilela,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,AL,56,https://www.camara.leg.br/internet/deputado/bandep/178844.jpg,
-414,https://dadosabertos.camara.leg.br/api/v2/deputados/204406,Pedro Westphalen,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,RS,56,https://www.camara.leg.br/internet/deputado/bandep/204406.jpg,
-415,https://dadosabertos.camara.leg.br/api/v2/deputados/73943,Perpétua Almeida,5,https://dadosabertos.camara.leg.br/api/v2/partidos/36779,AC,56,https://www.camara.leg.br/internet/deputado/bandep/73943.jpg,
-416,https://dadosabertos.camara.leg.br/api/v2/deputados/204524,Pinheirinho,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204524.jpg,
-417,https://dadosabertos.camara.leg.br/api/v2/deputados/204529,Policial Katia Sastre,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204529.jpg,
-418,https://dadosabertos.camara.leg.br/api/v2/deputados/73486,Pompeo de Mattos,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,RS,56,https://www.camara.leg.br/internet/deputado/bandep/73486.jpg,
-419,https://dadosabertos.camara.leg.br/api/v2/deputados/160601,Pr. Marco Feliciano,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SP,56,https://www.camara.leg.br/internet/deputado/bandep/160601.jpg,
-420,https://dadosabertos.camara.leg.br/api/v2/deputados/204390,Professor Alcides,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,GO,56,https://www.camara.leg.br/internet/deputado/bandep/204390.jpg,
-421,https://dadosabertos.camara.leg.br/api/v2/deputados/204383,Professor Israel Batista,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,DF,56,https://www.camara.leg.br/internet/deputado/bandep/204383.jpg,
-422,https://dadosabertos.camara.leg.br/api/v2/deputados/204446,Professor Joziel,4,https://dadosabertos.camara.leg.br/api/v2/partidos/37907,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204446.jpg,
-423,https://dadosabertos.camara.leg.br/api/v2/deputados/204565,Professora Dayane Pimentel,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,BA,56,https://www.camara.leg.br/internet/deputado/bandep/204565.jpg,
-424,https://dadosabertos.camara.leg.br/api/v2/deputados/160641,Professora Marcivania,5,https://dadosabertos.camara.leg.br/api/v2/partidos/36779,AP,56,https://www.camara.leg.br/internet/deputado/bandep/160641.jpg,
-425,https://dadosabertos.camara.leg.br/api/v2/deputados/204467,Professora Rosa Neide,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,MT,56,https://www.camara.leg.br/internet/deputado/bandep/204467.jpg,
-426,https://dadosabertos.camara.leg.br/api/v2/deputados/178951,Rafael Motta,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,RN,56,https://www.camara.leg.br/internet/deputado/bandep/178951.jpg,
-427,https://dadosabertos.camara.leg.br/api/v2/deputados/204567,Raimundo Costa,8,https://dadosabertos.camara.leg.br/api/v2/partidos/36896,BA,56,https://www.camara.leg.br/internet/deputado/bandep/204567.jpg,
-428,https://dadosabertos.camara.leg.br/api/v2/deputados/141523,Raul Henry,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,PE,56,https://www.camara.leg.br/internet/deputado/bandep/141523.jpg,
-429,https://dadosabertos.camara.leg.br/api/v2/deputados/74161,Reginaldo Lopes,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,MG,56,https://www.camara.leg.br/internet/deputado/bandep/74161.jpg,
-430,https://dadosabertos.camara.leg.br/api/v2/deputados/178925,Rejane Dias,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,PI,56,https://www.camara.leg.br/internet/deputado/bandep/178925.jpg,
-431,https://dadosabertos.camara.leg.br/api/v2/deputados/73801,Renildo Calheiros,5,https://dadosabertos.camara.leg.br/api/v2/partidos/36779,PE,56,https://www.camara.leg.br/internet/deputado/bandep/73801.jpg,
-432,https://dadosabertos.camara.leg.br/api/v2/deputados/73788,Ricardo Barros,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,PR,56,https://www.camara.leg.br/internet/deputado/bandep/73788.jpg,
-433,https://dadosabertos.camara.leg.br/api/v2/deputados/215042,Ricardo da Karol,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/215042.jpg,
-434,https://dadosabertos.camara.leg.br/api/v2/deputados/204362,Ricardo Guidi,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,SC,56,https://www.camara.leg.br/internet/deputado/bandep/204362.jpg,
-435,https://dadosabertos.camara.leg.br/api/v2/deputados/160655,Ricardo Izar,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,SP,56,https://www.camara.leg.br/internet/deputado/bandep/160655.jpg,
-436,https://dadosabertos.camara.leg.br/api/v2/deputados/213274,Ricardo Silva,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,SP,56,https://www.camara.leg.br/internet/deputado/bandep/213274.jpg,
-437,https://dadosabertos.camara.leg.br/api/v2/deputados/178920,Ricardo Teobaldo,8,https://dadosabertos.camara.leg.br/api/v2/partidos/36896,PE,56,https://www.camara.leg.br/internet/deputado/bandep/178920.jpg,
-438,https://dadosabertos.camara.leg.br/api/v2/deputados/204489,Robério Monteiro,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,CE,56,https://www.camara.leg.br/internet/deputado/bandep/204489.jpg,
-439,https://dadosabertos.camara.leg.br/api/v2/deputados/152610,Roberto Alves,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,SP,56,https://www.camara.leg.br/internet/deputado/bandep/152610.jpg,
-440,https://dadosabertos.camara.leg.br/api/v2/deputados/160653,Roberto de Lucena,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,SP,56,https://www.camara.leg.br/internet/deputado/bandep/160653.jpg,
-441,https://dadosabertos.camara.leg.br/api/v2/deputados/204530,Rodrigo Agostinho,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204530.jpg,
-442,https://dadosabertos.camara.leg.br/api/v2/deputados/204366,Rodrigo Coelho,8,https://dadosabertos.camara.leg.br/api/v2/partidos/36896,SC,56,https://www.camara.leg.br/internet/deputado/bandep/204366.jpg,
-443,https://dadosabertos.camara.leg.br/api/v2/deputados/141531,Rodrigo de Castro,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,MG,56,https://www.camara.leg.br/internet/deputado/bandep/141531.jpg,
-444,https://dadosabertos.camara.leg.br/api/v2/deputados/204480,Rogério Correia,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204480.jpg,
-445,https://dadosabertos.camara.leg.br/api/v2/deputados/160651,Rogério Peninha Mendonça,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,SC,56,https://www.camara.leg.br/internet/deputado/bandep/160651.jpg,
-446,https://dadosabertos.camara.leg.br/api/v2/deputados/178861,Ronaldo Carletto,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,BA,56,https://www.camara.leg.br/internet/deputado/bandep/178861.jpg,
-447,https://dadosabertos.camara.leg.br/api/v2/deputados/122466,Ronaldo Martins,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,CE,56,https://www.camara.leg.br/internet/deputado/bandep/122466.jpg,
-448,https://dadosabertos.camara.leg.br/api/v2/deputados/204525,Rosana Valle,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204525.jpg,
-449,https://dadosabertos.camara.leg.br/api/v2/deputados/178945,Rosangela Gomes,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/178945.jpg,
-450,https://dadosabertos.camara.leg.br/api/v2/deputados/204357,Rose Modesto,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,MS,56,https://www.camara.leg.br/internet/deputado/bandep/204357.jpg,
-451,https://dadosabertos.camara.leg.br/api/v2/deputados/73466,Rubens Bueno,1,https://dadosabertos.camara.leg.br/api/v2/partidos/37905,PR,56,https://www.camara.leg.br/internet/deputado/bandep/73466.jpg,
-452,https://dadosabertos.camara.leg.br/api/v2/deputados/74371,Rubens Otoni,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,GO,56,https://www.camara.leg.br/internet/deputado/bandep/74371.jpg,
-453,https://dadosabertos.camara.leg.br/api/v2/deputados/178887,Rubens Pereira Júnior,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,MA,56,https://www.camara.leg.br/internet/deputado/bandep/178887.jpg,
-454,https://dadosabertos.camara.leg.br/api/v2/deputados/73604,Rui Falcão,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,SP,56,https://www.camara.leg.br/internet/deputado/bandep/73604.jpg,
-455,https://dadosabertos.camara.leg.br/api/v2/deputados/160635,Ruy Carneiro,12,https://dadosabertos.camara.leg.br/api/v2/partidos/36833,PB,56,https://www.camara.leg.br/internet/deputado/bandep/160635.jpg,
-456,https://dadosabertos.camara.leg.br/api/v2/deputados/204535,Sâmia Bomfim,15,https://dadosabertos.camara.leg.br/api/v2/partidos/36839,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204535.jpg,
-457,https://dadosabertos.camara.leg.br/api/v2/deputados/178990,Samuel Moreira,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,SP,56,https://www.camara.leg.br/internet/deputado/bandep/178990.jpg,
-458,https://dadosabertos.camara.leg.br/api/v2/deputados/204416,Sanderson,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RS,56,https://www.camara.leg.br/internet/deputado/bandep/204416.jpg,
-459,https://dadosabertos.camara.leg.br/api/v2/deputados/160621,Sandro Alex,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,PR,56,https://www.camara.leg.br/internet/deputado/bandep/160621.jpg,
-460,https://dadosabertos.camara.leg.br/api/v2/deputados/219599,Sargento Alexandre,8,https://dadosabertos.camara.leg.br/api/v2/partidos/36896,SP,56,https://www.camara.leg.br/internet/deputado/bandep/219599.jpg,
-461,https://dadosabertos.camara.leg.br/api/v2/deputados/204387,Sargento Fahur,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,PR,56,https://www.camara.leg.br/internet/deputado/bandep/204387.jpg,
-462,https://dadosabertos.camara.leg.br/api/v2/deputados/178921,Sebastião Oliveira,0,https://dadosabertos.camara.leg.br/api/v2/partidos/36898,PE,56,https://www.camara.leg.br/internet/deputado/bandep/178921.jpg,
-463,https://dadosabertos.camara.leg.br/api/v2/deputados/73808,Sérgio Brito,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,BA,56,https://www.camara.leg.br/internet/deputado/bandep/73808.jpg,
-464,https://dadosabertos.camara.leg.br/api/v2/deputados/178933,Sergio Souza,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,PR,56,https://www.camara.leg.br/internet/deputado/bandep/178933.jpg,
-465,https://dadosabertos.camara.leg.br/api/v2/deputados/204438,Sergio Toledo,18,https://dadosabertos.camara.leg.br/api/v2/partidos/36851,AL,56,https://www.camara.leg.br/internet/deputado/bandep/204438.jpg,
-466,https://dadosabertos.camara.leg.br/api/v2/deputados/204437,Severino Pessoa,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,AL,56,https://www.camara.leg.br/internet/deputado/bandep/204437.jpg,
-467,https://dadosabertos.camara.leg.br/api/v2/deputados/178961,Shéridan,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,RR,56,https://www.camara.leg.br/internet/deputado/bandep/178961.jpg,
-468,https://dadosabertos.camara.leg.br/api/v2/deputados/204557,Sidney Leite,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,AM,56,https://www.camara.leg.br/internet/deputado/bandep/204557.jpg,
-469,https://dadosabertos.camara.leg.br/api/v2/deputados/74356,Silas Câmara,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,AM,56,https://www.camara.leg.br/internet/deputado/bandep/74356.jpg,
-470,https://dadosabertos.camara.leg.br/api/v2/deputados/204360,Silvia Cristina,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RO,56,https://www.camara.leg.br/internet/deputado/bandep/204360.jpg,
-471,https://dadosabertos.camara.leg.br/api/v2/deputados/204425,Silvio Costa Filho,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,PE,56,https://www.camara.leg.br/internet/deputado/bandep/204425.jpg,
-472,https://dadosabertos.camara.leg.br/api/v2/deputados/178946,Soraya Santos,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/178946.jpg,
-473,https://dadosabertos.camara.leg.br/api/v2/deputados/178947,Sóstenes Cavalcante,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/178947.jpg,
-474,https://dadosabertos.camara.leg.br/api/v2/deputados/92776,Stefano Aguiar,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,MG,56,https://www.camara.leg.br/internet/deputado/bandep/92776.jpg,
-475,https://dadosabertos.camara.leg.br/api/v2/deputados/177282,Subtenente Gonzaga,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,MG,56,https://www.camara.leg.br/internet/deputado/bandep/177282.jpg,
-476,https://dadosabertos.camara.leg.br/api/v2/deputados/204534,Tabata Amaral,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204534.jpg,
-477,https://dadosabertos.camara.leg.br/api/v2/deputados/178922,Tadeu Alencar,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,PE,56,https://www.camara.leg.br/internet/deputado/bandep/178922.jpg,
-478,https://dadosabertos.camara.leg.br/api/v2/deputados/204464,Talíria Petrone,15,https://dadosabertos.camara.leg.br/api/v2/partidos/36839,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204464.jpg,
-479,https://dadosabertos.camara.leg.br/api/v2/deputados/178901,Tereza Cristina,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,MS,56,https://www.camara.leg.br/internet/deputado/bandep/178901.jpg,
-480,https://dadosabertos.camara.leg.br/api/v2/deputados/204466,Tereza Nelma,13,https://dadosabertos.camara.leg.br/api/v2/partidos/36834,AL,56,https://www.camara.leg.br/internet/deputado/bandep/204466.jpg,
-481,https://dadosabertos.camara.leg.br/api/v2/deputados/219568,Tiago Andrino,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,TO,56,https://www.camara.leg.br/internet/deputado/bandep/219568.jpg,
-482,https://dadosabertos.camara.leg.br/api/v2/deputados/143084,Tiago Dimas,8,https://dadosabertos.camara.leg.br/api/v2/partidos/36896,TO,56,https://www.camara.leg.br/internet/deputado/bandep/143084.jpg,
-483,https://dadosabertos.camara.leg.br/api/v2/deputados/204519,Tiago Mitraud,3,https://dadosabertos.camara.leg.br/api/v2/partidos/37901,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204519.jpg,
-484,https://dadosabertos.camara.leg.br/api/v2/deputados/160976,Tiririca,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,SP,56,https://www.camara.leg.br/internet/deputado/bandep/160976.jpg,
-485,https://dadosabertos.camara.leg.br/api/v2/deputados/197438,Tito,0,https://dadosabertos.camara.leg.br/api/v2/partidos/36898,BA,56,https://www.camara.leg.br/internet/deputado/bandep/197438.jpg,
-486,https://dadosabertos.camara.leg.br/api/v2/deputados/178934,Toninho Wandscheer,10,https://dadosabertos.camara.leg.br/api/v2/partidos/36763,PR,56,https://www.camara.leg.br/internet/deputado/bandep/178934.jpg,
-487,https://dadosabertos.camara.leg.br/api/v2/deputados/157130,Túlio Gadêlha,19,https://dadosabertos.camara.leg.br/api/v2/partidos/36886,PE,56,https://www.camara.leg.br/internet/deputado/bandep/157130.jpg,
-488,https://dadosabertos.camara.leg.br/api/v2/deputados/178863,Uldurico Junior,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,BA,56,https://www.camara.leg.br/internet/deputado/bandep/178863.jpg,
-489,https://dadosabertos.camara.leg.br/api/v2/deputados/160610,Valmir Assunção,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,BA,56,https://www.camara.leg.br/internet/deputado/bandep/160610.jpg,
-490,https://dadosabertos.camara.leg.br/api/v2/deputados/74376,Vander Loubet,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,MS,56,https://www.camara.leg.br/internet/deputado/bandep/74376.jpg,
-491,https://dadosabertos.camara.leg.br/api/v2/deputados/141553,Vanderlei Macris,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,SP,56,https://www.camara.leg.br/internet/deputado/bandep/141553.jpg,
-492,https://dadosabertos.camara.leg.br/api/v2/deputados/204505,Vavá Martins,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,PA,56,https://www.camara.leg.br/internet/deputado/bandep/204505.jpg,
-493,https://dadosabertos.camara.leg.br/api/v2/deputados/204396,Vermelho,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,PR,56,https://www.camara.leg.br/internet/deputado/bandep/204396.jpg,
-494,https://dadosabertos.camara.leg.br/api/v2/deputados/74283,Vicentinho,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,SP,56,https://www.camara.leg.br/internet/deputado/bandep/74283.jpg,
-495,https://dadosabertos.camara.leg.br/api/v2/deputados/137070,Vicentinho Júnior,9,https://dadosabertos.camara.leg.br/api/v2/partidos/37903,TO,56,https://www.camara.leg.br/internet/deputado/bandep/137070.jpg,
-496,https://dadosabertos.camara.leg.br/api/v2/deputados/204483,Vilson da Fetaemg,11,https://dadosabertos.camara.leg.br/api/v2/partidos/36832,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204483.jpg,
-497,https://dadosabertos.camara.leg.br/api/v2/deputados/141555,Vinicius Carvalho,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,SP,56,https://www.camara.leg.br/internet/deputado/bandep/141555.jpg,
-498,https://dadosabertos.camara.leg.br/api/v2/deputados/204478,Vinicius Farah,22,https://dadosabertos.camara.leg.br/api/v2/partidos/38009,RJ,56,https://www.camara.leg.br/internet/deputado/bandep/204478.jpg,
-499,https://dadosabertos.camara.leg.br/api/v2/deputados/204532,Vinicius Poit,3,https://dadosabertos.camara.leg.br/api/v2/partidos/37901,SP,56,https://www.camara.leg.br/internet/deputado/bandep/204532.jpg,
-500,https://dadosabertos.camara.leg.br/api/v2/deputados/178992,Vitor Lippi,14,https://dadosabertos.camara.leg.br/api/v2/partidos/36835,SP,56,https://www.camara.leg.br/internet/deputado/bandep/178992.jpg,
-501,https://dadosabertos.camara.leg.br/api/v2/deputados/215044,Vivi Reis,15,https://dadosabertos.camara.leg.br/api/v2/partidos/36839,PA,56,https://www.camara.leg.br/internet/deputado/bandep/215044.jpg,
-502,https://dadosabertos.camara.leg.br/api/v2/deputados/160569,Waldenor Pereira,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,BA,56,https://www.camara.leg.br/internet/deputado/bandep/160569.jpg,
-503,https://dadosabertos.camara.leg.br/api/v2/deputados/178952,Walter Alves,2,https://dadosabertos.camara.leg.br/api/v2/partidos/36899,RN,56,https://www.camara.leg.br/internet/deputado/bandep/178952.jpg,
-504,https://dadosabertos.camara.leg.br/api/v2/deputados/160518,Weliton Prado,10,https://dadosabertos.camara.leg.br/api/v2/partidos/36763,MG,56,https://www.camara.leg.br/internet/deputado/bandep/160518.jpg,
-505,https://dadosabertos.camara.leg.br/api/v2/deputados/74043,Wellington Roberto,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,PB,56,https://www.camara.leg.br/internet/deputado/bandep/74043.jpg,
-506,https://dadosabertos.camara.leg.br/api/v2/deputados/74044,Wilson Santiago,20,https://dadosabertos.camara.leg.br/api/v2/partidos/37908,PB,56,https://www.camara.leg.br/internet/deputado/bandep/74044.jpg,
-507,https://dadosabertos.camara.leg.br/api/v2/deputados/74439,Wolney Queiroz,6,https://dadosabertos.camara.leg.br/api/v2/partidos/36786,PE,56,https://www.camara.leg.br/internet/deputado/bandep/74439.jpg,
-508,https://dadosabertos.camara.leg.br/api/v2/deputados/178889,Zé Carlos,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,MA,56,https://www.camara.leg.br/internet/deputado/bandep/178889.jpg,
-509,https://dadosabertos.camara.leg.br/api/v2/deputados/204559,Zé Neto,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,BA,56,https://www.camara.leg.br/internet/deputado/bandep/204559.jpg,
-510,https://dadosabertos.camara.leg.br/api/v2/deputados/160632,Zé Silva,21,https://dadosabertos.camara.leg.br/api/v2/partidos/37904,MG,56,https://www.camara.leg.br/internet/deputado/bandep/160632.jpg,
-511,https://dadosabertos.camara.leg.br/api/v2/deputados/204517,Zé Vitor,7,https://dadosabertos.camara.leg.br/api/v2/partidos/37906,MG,56,https://www.camara.leg.br/internet/deputado/bandep/204517.jpg,
-512,https://dadosabertos.camara.leg.br/api/v2/deputados/160592,Zeca Dirceu,16,https://dadosabertos.camara.leg.br/api/v2/partidos/36844,PR,56,https://www.camara.leg.br/internet/deputado/bandep/160592.jpg,
+id,nome,partidoId,siglaUf,idLegislatura
+204521,Abou Anni,22,SP,56
+204379,Acácio Favacho,2,AP,56
+204560,Adolfo Viana,14,BA,56
+204528,Adriana Ventura,3,SP,56
+121948,Adriano do Baldy,9,GO,56
+74646,Aécio Neves,14,MG,56
+141372,Aelton Freitas,9,MG,56
+160508,Afonso Florence,16,BA,56
+136811,Afonso Hamm,9,RS,56
+178835,Afonso Motta,6,RS,56
+204495,Airton Faleiro,16,PA,56
+204549,AJ Albuquerque,9,CE,56
+160559,Alceu Moreira,2,RS,56
+204413,Alcides Rodrigues,4,GO,56
+204545,Alê Silva,20,MG,56
+204501,Alencar Santana,16,SP,56
+160511,Alessandro Molon,11,RJ,56
+178972,Alex Manente,1,SP,56
+204571,Alex Santana,20,BA,56
+105534,Alexandre Figueiredo,13,SE,56
+204544,Alexandre Frota,14,SP,56
+160545,Alexandre Leite,22,SP,56
+204503,Alexandre Padilha,16,SP,56
+204516,Alexis Fonteyne,3,SP,56
+74057,Alice Portugal,5,BA,56
+178927,Aliel Machado,18,PR,56
+204353,Aline Gurgel,20,AP,56
+204400,Aline Sleutjes,10,PR,56
+178937,Altineu Côrtes,7,RJ,56
+178881,Aluisio Mendes,12,MA,56
+204356,Amaro Neto,20,ES,56
+178831,André Abdon,9,AP,56
+74471,André de Paula,13,PE,56
+204423,André Ferreira,7,PE,56
+133439,André Figueiredo,6,CE,56
+178882,André Fufuca,9,MA,56
+204515,André Janones,0,MG,56
+73696,Angela Amin,9,SC,56
+123756,Antônia Lúcia,20,AC,56
+160553,Antonio Brito,13,BA,56
+73433,Arlindo Chinaglia,16,SP,56
+141391,Arnaldo Jardim,1,SP,56
+204414,Aroldo Martins,20,PR,56
+160541,Arthur Lira,9,AL,56
+160600,Arthur Oliveira Maia,22,BA,56
+74090,Átila Lins,13,AM,56
+74459,Átila Lira,9,PI,56
+160665,Augusto Coutinho,20,PE,56
+204509,Áurea Carolina,15,MG,56
+160512,Aureo Ribeiro,21,RJ,56
+69871,Bacelar,18,BA,56
+178975,Baleia Rossi,2,SP,56
+73701,Benedita da Silva,16,RJ,56
+109429,Benes Leocádio,22,RN,56
+141335,Beto Faro,16,PA,56
+204358,Beto Pereira,14,MS,56
+178948,Beto Rosado,9,RN,56
+204374,Bia Kicis,7,DF,56
+204388,Bibo Nunes,7,RS,56
+141513,Bilac Pinto,22,MG,56
+204561,Bira do Pindaré,11,MA,56
+160538,Bohn Gass,16,RS,56
+74052,Bosco Costa,7,SE,56
+204551,Bosco Saraiva,21,AM,56
+204502,Bozzella,22,SP,56
+160589,Bruna Furlan,14,SP,56
+93083,Cacá Leão,9,BA,56
+204352,Camilo Capiberibe,11,AP,56
+204572,Capitão Alberto Neto,7,AM,56
+178829,Capitão Augusto,7,SP,56
+204531,Capitão Derrite,7,SP,56
+178924,Capitão Fábio Abreu,13,PI,56
+204487,Capitão Wagner,22,CE,56
+213762,Carla Dickson,22,RN,56
+204507,Carla Zambelli,7,SP,56
+141401,Carlos Bezerra,2,MT,56
+204361,Carlos Chiodini,2,SC,56
+178962,Carlos Gomes,20,RS,56
+178993,Carlos Henrique Gaguim,22,TO,56
+204460,Carlos Jordy,7,RJ,56
+74262,Carlos Sampaio,14,SP,56
+204426,Carlos Veras,16,PE,56
+141398,Carlos Zarattini,16,SP,56
+164360,Carmen Zanotto,1,SC,56
+204369,Caroline de Toni,7,SC,56
+204499,Cássio Andrade,11,PA,56
+204380,Celina Leão,9,DF,56
+204370,Célio Moura,16,TO,56
+178876,Célio Silveira,2,GO,56
+204488,Célio Studart,13,CE,56
+141405,Celso Maldaner,2,SC,56
+73441,Celso Russomanno,20,SP,56
+204496,Celso Sabino,22,PA,56
+204504,Cezinha de Madureira,13,SP,56
+205476,Charles Fernandes,13,BA,56
+204490,Charlles Evangelista,9,MG,56
+141439,Chico D'Angelo,6,RJ,56
+204476,Chiquinho Brazão,22,RJ,56
+204462,Chris Tonietto,7,RJ,56
+178928,Christiane de Souza Yared,9,PR,56
+204440,Christino Aureo,9,RJ,56
+178939,Clarissa Garotinho,22,RJ,56
+74537,Claudio Cajado,9,BA,56
+141408,Cleber Verde,20,MA,56
+204376,Coronel Armando,7,SC,56
+204378,Coronel Chrisóstomo,7,RO,56
+204514,Coronel Tadeu,7,SP,56
+178963,Covatti Filho,9,RS,56
+135054,Cristiano Vale,9,PA,56
+204355,Da Vitoria,9,ES,56
+141411,Dagoberto Nogueira,14,MS,56
+74467,Damião Feliciano,22,PB,56
+74060,Daniel Almeida,5,BA,56
+178916,Daniel Coelho,1,PE,56
+204367,Daniel Freitas,7,SC,56
+204454,Daniel Silveira,17,RJ,56
+204409,Daniel Trzeciak,14,RS,56
+204459,Daniela do Waguinho,22,RJ,56
+160528,Danilo Cabral,11,PE,56
+62881,Danilo Forte,22,CE,56
+160552,Danrlei de Deus Hinterholz,13,RS,56
+116379,Darci de Matos,13,SC,56
+205548,David Miranda,6,RJ,56
+204511,David Soares,22,SP,56
+204451,Delegado Antônio Furtado,22,RJ,56
+178908,Delegado Éder Mauro,7,PA,56
+204512,Delegado Marcelo Freitas,22,MG,56
+204569,Delegado Pablo,22,AM,56
+164359,Delegado Waldir,22,GO,56
+204542,Denis Bezerra,11,CE,56
+160588,Diego Andrade,13,MG,56
+178929,Diego Garcia,20,PR,56
+160599,Dimas Fabiano,9,MG,56
+143632,Domingos Neto,13,CE,56
+160758,Domingos Sávio,7,MG,56
+213854,Dr. Agripino Magalhães,22,CE,56
+204518,Dr. Frederico,4,MG,56
+204481,Dr. Jaziel,7,CE,56
+204439,Dr. Leonardo,20,MT,56
+204450,Dr. Luiz Antonio Teixeira Jr.,9,RJ,56
+204351,Dr. Luiz Ovando,9,MS,56
+204412,Dr. Zacharias Calil,22,GO,56
+81297,Dra. Soraya Manato,17,ES,56
+204434,Dra. Vanda Milani,10,AC,56
+178994,Dulce Miranda,2,TO,56
+204562,Edilázio Júnior,13,MA,56
+141417,Edio Lopes,7,RR,56
+204421,Edna Henrique,20,PB,56
+74655,Eduardo Barbosa,14,MG,56
+204541,Eduardo Bismarck,6,CE,56
+92346,Eduardo Bolsonaro,7,SP,56
+204500,Eduardo Costa,13,PA,56
+178977,Eduardo Cury,14,SP,56
+141421,Eduardo da Fonte,9,PE,56
+141422,Efraim Filho,22,PB,56
+74075,Elcione Barbalho,2,PA,56
+204364,Eli Borges,7,TO,56
+160532,Eli Corrêa Filho,22,SP,56
+204389,Elias Vaz,11,GO,56
+220008,Eliza Virgínia,9,PB,56
+178854,Elmar Nascimento,22,BA,56
+198783,Emanuel Pinheiro Neto,2,MT,56
+161550,Emidinho Madeira,7,MG,56
+132504,Enio Verri,16,PR,56
+204537,Enrico Misasi,2,SP,56
+160575,Erika Kokay,16,DF,56
+160640,Eros Biondini,7,MG,56
+204482,Euclydes Pettersen,12,MG,56
+178871,Evair Vieira de Melo,9,ES,56
+178953,Expedito Netto,13,RO,56
+68720,Fábio Henrique,22,SE,56
+141427,Fábio Ramalho,2,MG,56
+171623,Fabio Reis,13,SE,56
+204368,Fabio Schiochet,22,SC,56
+160587,Fábio Trad,13,MS,56
+66828,Fausto Pinato,9,SP,56
+204477,Felício Laterça,9,RJ,56
+72442,Felipe Carreras,11,PE,56
+204398,Felipe Francischini,22,PR,56
+204371,Felipe Rigoni,22,ES,56
+160666,Félix Mendonça Júnior,6,BA,56
+204407,Fernanda Melchionna,15,RS,56
+141431,Fernando Coelho Filho,22,PE,56
+92699,Fernando Monteiro,9,PE,56
+204427,Fernando Rodolfo,7,PE,56
+204411,Filipe Barros,7,PR,56
+204354,Flávia Arruda,7,DF,56
+160598,Flávia Morais,6,GO,56
+141434,Flaviano Melo,2,AC,56
+191923,Flávio Nogueira,16,PI,56
+204392,Francisco Jr.,13,GO,56
+204510,Franco Cartafina,9,MG,56
+204494,Fred Costa,4,MG,56
+204393,Frei Anastacio Ribeiro,16,PB,56
+115746,Gelson Azevedo,7,RJ,56
+160669,Genecias Noronha,7,CE,56
+204473,General Girão,7,RN,56
+204484,General Peternelli,22,SP,56
+204527,Geninho Zuliani,22,SP,56
+178966,Geovania de Sá,14,SC,56
+204394,Gervásio Maia,11,PB,56
+74383,Giacobo,7,PR,56
+204575,Gil Cutrim,20,MA,56
+204491,Gilberto Abramo,20,MG,56
+74270,Gilberto Nascimento,12,SP,56
+204365,Gilson Marques,3,SC,56
+160673,Giovani Cherini,7,RS,56
+178996,Giovani Feltes,2,RS,56
+152605,Glauber Braga,15,RJ,56
+204419,Glaustin da Fokus,12,GO,56
+107283,Gleisi Hoffmann,16,PR,56
+74419,Gonzaga Patriota,11,PE,56
+198197,Greyce Elias,0,MG,56
+204513,Guiga Peixoto,12,SP,56
+160667,Guilherme Mussi,9,SP,56
+204442,Gurgel,7,RJ,56
+73460,Gustavo Fruet,6,PR,56
+204408,Gustinho Ribeiro,20,SE,56
+204456,Gutemberg Reis,2,RJ,56
+204465,Haroldo Cathedral,13,RR,56
+204548,Heitor Freire,22,CE,56
+178964,Heitor Schuch,11,RS,56
+178873,Helder Salomão,16,ES,56
+204373,Hélio Costa,13,SC,56
+178909,Hélio Leite,22,PA,56
+204444,Helio Lopes,7,RJ,56
+73482,Henrique Fontana,16,RS,56
+204539,Hercílio Coelho Diniz,2,MG,56
+178981,Herculano Passos,20,SP,56
+73772,Hermes Parcianello,2,PR,56
+178884,Hildo Rocha,2,MA,56
+178959,Hiran Gonçalves,9,RR,56
+141450,Hugo Leal,13,RJ,56
+160674,Hugo Motta,20,PB,56
+204533,Idilvan Alencar,6,CE,56
+204564,Igor Kannário,22,BA,56
+204508,Igor Timo,8,MG,56
+67138,Iracema Portella,9,PI,56
+204436,Isnaldo Bulhões Jr.,2,AL,56
+73531,Ivan Valente,15,SP,56
+74848,Jandira Feghali,5,RJ,56
+108338,Jaqueline Cassol,9,RO,56
+74273,Jefferson Campos,7,SP,56
+160570,Jerônimo Goergen,9,RS,56
+178839,Jéssica Sales,2,AC,56
+204435,Jesus Sérgio,6,AC,56
+160531,Jhonatan de Jesus,20,RR,56
+74366,João Campos,20,GO,56
+141458,João Carlos Bacelar,7,BA,56
+178970,João Daniel,16,SE,56
+141459,João Maia,7,RN,56
+112437,João Marcelo Souza,2,MA,56
+204576,João Roma,7,BA,56
+178910,Joaquim Passarinho,7,PA,56
+214865,Joceval Rodrigues,1,BA,56
+204468,Joenia Wapichana,19,RR,56
+204546,Joice Hasselmann,14,SP,56
+217480,Jones Moura,13,RJ,56
+205550,Jorge Braz,20,RJ,56
+178857,Jorge Solla,16,BA,56
+141464,José Airton Félix Cirilo,16,CE,56
+141470,José Guimarães,16,CE,56
+204386,Jose Mario Schreiner,2,GO,56
+204472,José Medeiros,7,MT,56
+204391,José Nelto,9,GO,56
+74079,José Priante,2,PA,56
+204555,José Ricardo,16,AM,56
+74554,José Rocha,22,BA,56
+209189,Joseildo Ramos,16,BA,56
+74141,Josias Gomes,16,BA,56
+204563,Josimar Maranhãozinho,7,MA,56
+215043,Josivaldo JP,13,MA,56
+204474,Juarez Costa,2,MT,56
+204420,Julian Lemos,22,PB,56
+74317,Júlio Cesar,13,PI,56
+204372,Julio Cesar Ribeiro,20,DF,56
+73586,Júlio Delgado,18,MG,56
+204457,Juninho do Pneu,22,RJ,56
+204520,Junio Amaral,7,MG,56
+204497,Júnior Ferrari,13,PA,56
+204574,Junior Lourenço,7,MA,56
+204550,Júnior Mano,7,CE,56
+178886,Juscelino Filho,22,MA,56
+204536,Kim Kataguiri,22,SP,56
+151208,Laercio Oliveira,9,SE,56
+98057,Lafayette de Andrada,20,MG,56
+160534,Lauriete,12,ES,56
+141480,Lázaro Botelho,9,TO,56
+178832,Leandre,13,PR,56
+204375,Leda Sadala,9,AP,56
+178825,Leo de Brito,16,AC,56
+204359,Léo Moraes,8,RO,56
+204547,Léo Motta,20,MG,56
+74156,Leonardo Monteiro,16,MG,56
+74299,Leônidas Cristino,6,CE,56
+92102,Leur Lomanto Júnior,22,BA,56
+139285,Lídice da Mata,11,BA,56
+74585,Lincoln Portela,7,MG,56
+204405,Liziane Bayer,20,RS,56
+204382,Loester Trutis,7,MS,56
+196358,Lourival Gomes,9,RJ,56
+219592,Lucas Follador,12,RO,56
+204523,Lucas Gonzalez,3,MG,56
+204404,Lucas Redecker,14,RS,56
+178879,Lucas Vergilio,21,GO,56
+74478,Luciano Bivar,22,PE,56
+178931,Luciano Ducci,11,PR,56
+178954,Lucio Mosquini,2,RO,56
+204381,Luis Miranda,20,DF,56
+160510,Luis Tibé,0,MG,56
+204410,Luisa Canziani,13,PR,56
+204448,Luiz Antônio Corrêa,9,RJ,56
+160645,Luiz Carlos,14,AP,56
+204485,Luiz Carlos Motta,7,SP,56
+204455,Luiz Lima,7,RJ,56
+162332,Luiz Nishimori,13,PR,56
+204526,Luiz Philippe de Orleans e Bragança,7,SP,56
+74784,Luiza Erundina,15,SP,56
+204418,Luizão Goulart,21,PR,56
+178866,Luizianne Lins,16,CE,56
+166402,Magda Mofatto,7,GO,56
+204458,Major Fabiana,7,RJ,56
+179587,Major Vitor Hugo,7,GO,56
+204471,Mara Rocha,2,AC,56
+156190,Marcel van Hattem,3,RS,56
+179000,Marcelo Álvaro Antônio,7,MG,56
+146788,Marcelo Aro,9,MG,56
+204433,Marcelo Calero,13,RJ,56
+76874,Marcelo Freixo,11,RJ,56
+133810,Marcelo Moraes,7,RS,56
+204558,Marcelo Nilo,20,BA,56
+204556,Marcelo Ramos,13,AM,56
+178983,Marcio Alvino,7,SP,56
+179001,Márcio Biolchi,2,RS,56
+81055,Márcio Jerry,5,MA,56
+204452,Márcio Labre,7,RJ,56
+160542,Márcio Macêdo,16,SE,56
+150418,Márcio Marinho,20,BA,56
+204522,Marco Bertaiolli,13,SP,56
+219585,Marco Brasil,9,PR,56
+160535,Marcon,16,RS,56
+204431,Marcos Aurélio Sampaio,13,PI,56
+204506,Marcos Pereira,20,SP,56
+178943,Marcos Soares,22,RJ,56
+204430,Margarete Coelho,9,PI,56
+74398,Maria do Rosário,16,RS,56
+204540,Maria Rosas,20,SP,56
+204428,Marília Arraes,21,PE,56
+204432,Marina Santos,20,PI,56
+74158,Mário Heringer,6,MG,56
+178858,Mário Negromonte Jr.,9,BA,56
+204403,Marlon Santos,7,RS,56
+204566,Marreca Filho,4,MA,56
+178843,Marx Beltrão,9,AL,56
+75431,Maurício Dziedricki,8,RS,56
+204486,Mauro Benevides Filho,6,CE,56
+74749,Mauro Lopes,9,MG,56
+141508,Mauro Nazif,11,RO,56
+188097,Merlong Solano,16,PI,56
+178985,Miguel Lombardi,7,SP,56
+92172,Milton Coelho,11,PE,56
+154178,Milton Vieira,20,SP,56
+178895,Misael Varella,13,MG,56
+204453,Natália Bonavides,16,RN,56
+204449,Nelson Barbudo,7,MT,56
+204415,Nereu Crispim,13,RS,56
+146307,Neri Geller,9,MT,56
+74165,Neucimar Fraga,9,ES,56
+178896,Newton Cardoso Jr,2,MG,56
+204384,Ney Leprevost,22,PR,56
+204479,Nicoletti,22,RR,56
+74352,Nilson Pinto,14,PA,56
+178986,Nilto Tatto,16,SP,56
+194260,Nivaldo Albuquerque,20,AL,56
+66179,Norma Ayub,9,ES,56
+74159,Odair Cunha,16,MG,56
+204498,Olival Marques,2,PA,56
+74399,Onyx Lorenzoni,7,RS,56
+178987,Orlando Silva,5,SP,56
+73463,Osmar Serraglio,9,PR,56
+73692,Osmar Terra,2,RS,56
+204422,Ossesio Silva,20,PE,56
+204441,Otoni de Paula,2,RJ,56
+204475,Ottaci Nascimento,21,RR,56
+204573,Otto Alencar Filho,13,BA,56
+160556,Padre João,16,MG,56
+160642,Pastor Eurico,7,PE,56
+204570,Pastor Gil,7,MA,56
+204553,Pastor Sargento Isidório,0,BA,56
+205535,Patricia Ferraz,8,AP,56
+74160,Patrus Ananias,16,MG,56
+204377,Paula Belmonte,1,DF,56
+171617,Paulão,16,AL,56
+141518,Paulinho da Força,21,SP,56
+141516,Paulo Abi-Ackel,14,MG,56
+178860,Paulo Azi,22,BA,56
+204538,Paulo Bengtson,17,PA,56
+193726,Paulo Eduardo Martins,7,PR,56
+160517,Paulo Foletto,11,ES,56
+160558,Paulo Freire Costa,7,SP,56
+204461,Paulo Ganime,3,RJ,56
+204492,Paulo Guedes,16,MG,56
+74574,Paulo Magalhães,13,BA,56
+74400,Paulo Pimenta,16,RS,56
+133968,Paulo Ramos,6,RJ,56
+141488,Paulo Teixeira,16,SP,56
+90201,Pedro Augusto Bezerra,6,CE,56
+215045,Pedro Augusto Palareti,9,RJ,56
+178912,Pedro Cunha Lima,14,PB,56
+122974,Pedro Lucas Fernandes,22,MA,56
+204395,Pedro Lupion,9,PR,56
+122158,Pedro Paulo,13,RJ,56
+160604,Pedro Uczai,16,SC,56
+178844,Pedro Vilela,14,AL,56
+204406,Pedro Westphalen,9,RS,56
+73943,Perpétua Almeida,5,AC,56
+204524,Pinheirinho,9,MG,56
+204529,Policial Katia Sastre,7,SP,56
+73486,Pompeo de Mattos,6,RS,56
+160601,Pr. Marco Feliciano,7,SP,56
+204390,Professor Alcides,7,GO,56
+204383,Professor Israel Batista,11,DF,56
+204446,Professor Joziel,4,RJ,56
+204565,Professora Dayane Pimentel,22,BA,56
+160641,Professora Marcivania,5,AP,56
+204467,Professora Rosa Neide,16,MT,56
+178951,Rafael Motta,11,RN,56
+204567,Raimundo Costa,8,BA,56
+141523,Raul Henry,2,PE,56
+74161,Reginaldo Lopes,16,MG,56
+178925,Rejane Dias,16,PI,56
+73801,Renildo Calheiros,5,PE,56
+73788,Ricardo Barros,9,PR,56
+215042,Ricardo da Karol,6,RJ,56
+204362,Ricardo Guidi,13,SC,56
+160655,Ricardo Izar,20,SP,56
+213274,Ricardo Silva,13,SP,56
+178920,Ricardo Teobaldo,8,PE,56
+204489,Robério Monteiro,6,CE,56
+152610,Roberto Alves,20,SP,56
+160653,Roberto de Lucena,20,SP,56
+204530,Rodrigo Agostinho,11,SP,56
+204366,Rodrigo Coelho,8,SC,56
+141531,Rodrigo de Castro,22,MG,56
+204480,Rogério Correia,16,MG,56
+160651,Rogério Peninha Mendonça,2,SC,56
+178861,Ronaldo Carletto,9,BA,56
+122466,Ronaldo Martins,20,CE,56
+204525,Rosana Valle,7,SP,56
+178945,Rosangela Gomes,20,RJ,56
+204357,Rose Modesto,22,MS,56
+73466,Rubens Bueno,1,PR,56
+74371,Rubens Otoni,16,GO,56
+178887,Rubens Pereira Júnior,16,MA,56
+73604,Rui Falcão,16,SP,56
+160635,Ruy Carneiro,12,PB,56
+204535,Sâmia Bomfim,15,SP,56
+178990,Samuel Moreira,14,SP,56
+204416,Sanderson,7,RS,56
+160621,Sandro Alex,13,PR,56
+219599,Sargento Alexandre,8,SP,56
+204387,Sargento Fahur,13,PR,56
+178921,Sebastião Oliveira,0,PE,56
+73808,Sérgio Brito,13,BA,56
+178933,Sergio Souza,2,PR,56
+204438,Sergio Toledo,18,AL,56
+204437,Severino Pessoa,2,AL,56
+178961,Shéridan,14,RR,56
+204557,Sidney Leite,13,AM,56
+74356,Silas Câmara,20,AM,56
+204360,Silvia Cristina,7,RO,56
+204425,Silvio Costa Filho,20,PE,56
+178946,Soraya Santos,7,RJ,56
+178947,Sóstenes Cavalcante,7,RJ,56
+92776,Stefano Aguiar,13,MG,56
+177282,Subtenente Gonzaga,13,MG,56
+204534,Tabata Amaral,11,SP,56
+178922,Tadeu Alencar,11,PE,56
+204464,Talíria Petrone,15,RJ,56
+178901,Tereza Cristina,9,MS,56
+204466,Tereza Nelma,13,AL,56
+219568,Tiago Andrino,11,TO,56
+143084,Tiago Dimas,8,TO,56
+204519,Tiago Mitraud,3,MG,56
+160976,Tiririca,7,SP,56
+197438,Tito,0,BA,56
+178934,Toninho Wandscheer,10,PR,56
+157130,Túlio Gadêlha,19,PE,56
+178863,Uldurico Junior,2,BA,56
+160610,Valmir Assunção,16,BA,56
+74376,Vander Loubet,16,MS,56
+141553,Vanderlei Macris,14,SP,56
+204505,Vavá Martins,20,PA,56
+204396,Vermelho,7,PR,56
+74283,Vicentinho,16,SP,56
+137070,Vicentinho Júnior,9,TO,56
+204483,Vilson da Fetaemg,11,MG,56
+141555,Vinicius Carvalho,20,SP,56
+204478,Vinicius Farah,22,RJ,56
+204532,Vinicius Poit,3,SP,56
+178992,Vitor Lippi,14,SP,56
+215044,Vivi Reis,15,PA,56
+160569,Waldenor Pereira,16,BA,56
+178952,Walter Alves,2,RN,56
+160518,Weliton Prado,10,MG,56
+74043,Wellington Roberto,7,PB,56
+74044,Wilson Santiago,20,PB,56
+74439,Wolney Queiroz,6,PE,56
+178889,Zé Carlos,16,MA,56
+204559,Zé Neto,16,BA,56
+160632,Zé Silva,21,MG,56
+204517,Zé Vitor,7,MG,56
+160592,Zeca Dirceu,16,PR,56
